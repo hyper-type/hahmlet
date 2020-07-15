@@ -4,7 +4,7 @@
 
 ## Description
 
-The Hahmlet typeface family is designer for the Latin and Hangeul scripts.
+The Hahmlet typeface family is designed for the Latin and Hangeul scripts.
 
 ## Designers
 
