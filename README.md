@@ -2,8 +2,6 @@
 
 ![Hahmlet Fonts for Latin and Hangeul](documentation/sample-01.png)
 
-<embed src="https://github.com/hyper-type/hahmlet/blob/master/documentation/Hahmlet%20Digital%20Specimen.pdf" type="application/pdf" />
-
 ## Description
 
 The Hahmlet typeface family is designed for the Latin and Hangeul scripts.
