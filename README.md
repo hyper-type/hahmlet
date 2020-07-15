@@ -1,6 +1,6 @@
 # Hahmlet Fonts Project
 
-![Hahmlet Fonts for Latin and Hangeul](documentation/sample.png)
+![Hahmlet Fonts for Latin and Hangeul](documentation/sample-01.png)
 
 ## Description
 
