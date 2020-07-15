@@ -2,7 +2,7 @@
 
 ![Hahmlet Fonts for Latin and Hangeul](documentation/sample-01.png)
 
-<embed src="https://docs.google.com/viewer?url=https://github.com/hyper-type/hahmlet/blob/master/documentation/Hahmlet%20Digital%20Specimen.pdf" type="application/pdf" />
+<embed src="https://github.com/hyper-type/hahmlet/blob/master/documentation/Hahmlet%20Digital%20Specimen.pdf" type="application/pdf" />
 
 ## Description
 
