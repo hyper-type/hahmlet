@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whiteDiamond" format="2">
+  <advance width="844"/>
+  <unicode hex="25C7"/>
+  <outline>
+    <contour>
+      <point x="429" y="-76" type="curve"/>
+      <point x="789" y="285" type="line"/>
+      <point x="793" y="289"/>
+      <point x="793" y="295"/>
+      <point x="789" y="299" type="curve"/>
+      <point x="429" y="659" type="line"/>
+      <point x="425" y="663"/>
+      <point x="419" y="663"/>
+      <point x="415" y="659" type="curve"/>
+      <point x="54" y="299" type="line"/>
+      <point x="50" y="295"/>
+      <point x="50" y="289"/>
+      <point x="54" y="285" type="curve"/>
+      <point x="415" y="-76" type="line"/>
+      <point x="419" y="-80"/>
+      <point x="425" y="-80"/>
+    </contour>
+    <contour>
+      <point x="420" y="31" type="line"/>
+      <point x="161" y="290" type="line"/>
+      <point x="423" y="552" type="line"/>
+      <point x="682" y="293" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>blackDiamond</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>blackDiamond</string>
+    </dict>
+  </lib>
+</glyph>

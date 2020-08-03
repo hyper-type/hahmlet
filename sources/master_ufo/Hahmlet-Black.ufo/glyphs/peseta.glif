@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta" format="2">
+  <advance width="815"/>
+  <unicode hex="20A7"/>
+  <anchor x="382" y="0" name="bottom"/>
+  <anchor x="382" y="754" name="top"/>
+  <outline>
+    <contour>
+      <point x="54" y="543" type="curve"/>
+      <point x="48" y="491" type="line"/>
+      <point x="47" y="485"/>
+      <point x="51" y="481"/>
+      <point x="57" y="481" type="curve"/>
+      <point x="802" y="481" type="line"/>
+      <point x="808" y="481"/>
+      <point x="813" y="485"/>
+      <point x="813" y="491" type="curve"/>
+      <point x="822" y="550" type="line"/>
+      <point x="822" y="556"/>
+      <point x="819" y="560"/>
+      <point x="813" y="559" type="curve"/>
+      <point x="745" y="553" type="line"/>
+      <point x="65" y="553" type="line"/>
+      <point x="59" y="553"/>
+      <point x="55" y="549"/>
+    </contour>
+    <component base="P" xOffset="24"/>
+  </outline>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lessequal" format="2">
+  <advance width="670"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="608" y="93" type="curve"/>
+      <point x="607" y="102"/>
+      <point x="606" y="111"/>
+      <point x="605" y="121" type="curve"/>
+      <point x="604" y="126"/>
+      <point x="603" y="127"/>
+      <point x="599" y="130" type="curve"/>
+      <point x="91" y="376" type="line"/>
+      <point x="91" y="353" type="line"/>
+      <point x="603" y="598" type="line"/>
+      <point x="607" y="601"/>
+      <point x="608" y="602"/>
+      <point x="608" y="607" type="curve"/>
+      <point x="607" y="616"/>
+      <point x="606" y="624"/>
+      <point x="605" y="633" type="curve"/>
+      <point x="604" y="638"/>
+      <point x="603" y="639"/>
+      <point x="599" y="636" type="curve"/>
+      <point x="68" y="379" type="line"/>
+      <point x="64" y="376"/>
+      <point x="63" y="375"/>
+      <point x="63" y="370" type="curve"/>
+      <point x="63" y="359" type="line"/>
+      <point x="63" y="354"/>
+      <point x="64" y="353"/>
+      <point x="68" y="350" type="curve"/>
+      <point x="603" y="90" type="line"/>
+      <point x="607" y="87"/>
+      <point x="608" y="88"/>
+    </contour>
+    <component base="minus" xOffset="-2" yOffset="-253"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|greaterequal</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=670</string>
+    </dict>
+  </lib>
+</glyph>

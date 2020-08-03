@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.case" format="2">
+  <anchor x="218" y="754" name="_top"/>
+  <anchor x="218" y="928" name="top"/>
+  <outline>
+    <component base="tildecomb" yOffset="245"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=30</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=30</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>437</integer>
+    </dict>
+  </lib>
+</glyph>

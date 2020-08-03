@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yuICompa-ko" format="2">
+  <advance width="930"/>
+  <unicode hex="318C"/>
+  <anchor x="857" y="-118" name="top"/>
+  <outline>
+    <contour>
+      <point x="651" y="-123" type="curve"/>
+      <point x="651" y="-123" type="line"/>
+      <point x="763" y="-120" type="line"/>
+      <point x="810" y="-119"/>
+      <point x="837" y="-107"/>
+      <point x="837" y="-79" type="curve"/>
+      <point x="837" y="767" type="line"/>
+      <point x="847" y="776"/>
+      <point x="855" y="785"/>
+      <point x="861" y="793" type="curve"/>
+      <point x="868" y="804"/>
+      <point x="868" y="805"/>
+      <point x="855" y="805" type="curve"/>
+      <point x="647" y="805" type="line"/>
+      <point x="634" y="805"/>
+      <point x="633" y="804"/>
+      <point x="634" y="791" type="curve"/>
+      <point x="637" y="699" type="line"/>
+      <point x="637" y="-109" type="line"/>
+      <point x="637" y="-122"/>
+      <point x="638" y="-123"/>
+    </contour>
+    <contour>
+      <point x="85" y="171" type="curve"/>
+      <point x="85" y="171" type="line"/>
+      <point x="223" y="184"/>
+      <point x="471" y="216"/>
+      <point x="653" y="251" type="curve"/>
+      <point x="666" y="254"/>
+      <point x="667" y="255"/>
+      <point x="666" y="268" type="curve"/>
+      <point x="661" y="353" type="line"/>
+      <point x="660" y="366"/>
+      <point x="659" y="367"/>
+      <point x="646" y="366" type="curve"/>
+      <point x="467" y="348"/>
+      <point x="209" y="338"/>
+      <point x="43" y="339" type="curve"/>
+      <point x="30" y="339"/>
+      <point x="29" y="338"/>
+      <point x="32" y="325" type="curve"/>
+      <point x="68" y="184" type="line"/>
+      <point x="71" y="171"/>
+      <point x="72" y="170"/>
+    </contour>
+    <contour>
+      <point x="154" y="-114" type="curve"/>
+      <point x="154" y="-114" type="line"/>
+      <point x="242" y="-112" type="line"/>
+      <point x="289" y="-111"/>
+      <point x="316" y="-100"/>
+      <point x="316" y="-72" type="curve"/>
+      <point x="316" y="233" type="line"/>
+      <point x="140" y="233" type="line"/>
+      <point x="140" y="-100" type="line"/>
+      <point x="140" y="-113"/>
+      <point x="141" y="-114"/>
+    </contour>
+    <contour>
+      <point x="394" y="-114" type="curve"/>
+      <point x="394" y="-114" type="line"/>
+      <point x="482" y="-112" type="line"/>
+      <point x="529" y="-111"/>
+      <point x="556" y="-100"/>
+      <point x="556" y="-72" type="curve"/>
+      <point x="556" y="263" type="line"/>
+      <point x="380" y="263" type="line"/>
+      <point x="380" y="-100" type="line"/>
+      <point x="380" y="-113"/>
+      <point x="381" y="-114"/>
+    </contour>
+  </outline>
+</glyph>

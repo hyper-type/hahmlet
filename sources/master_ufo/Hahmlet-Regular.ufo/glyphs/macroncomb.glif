@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb" format="2">
+  <unicode hex="0304"/>
+  <anchor x="181" y="492" name="_top"/>
+  <anchor x="181" y="619" name="top"/>
+  <anchor x="181" y="649" name="top_acute"/>
+  <outline>
+    <contour>
+      <point x="31" y="640" type="curve"/>
+      <point x="30" y="629"/>
+      <point x="29" y="618"/>
+      <point x="30" y="607" type="curve"/>
+      <point x="30" y="600"/>
+      <point x="32" y="597"/>
+      <point x="39" y="597" type="curve"/>
+      <point x="317" y="597" type="line"/>
+      <point x="324" y="597"/>
+      <point x="327" y="599"/>
+      <point x="329" y="606" type="curve"/>
+      <point x="331" y="618"/>
+      <point x="332" y="631"/>
+      <point x="332" y="643" type="curve"/>
+      <point x="332" y="650"/>
+      <point x="330" y="653"/>
+      <point x="323" y="653" type="curve"/>
+      <point x="245" y="649" type="line"/>
+      <point x="42" y="649" type="line"/>
+      <point x="35" y="649"/>
+      <point x="32" y="647"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=30</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=30</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>362</integer>
+    </dict>
+  </lib>
+</glyph>

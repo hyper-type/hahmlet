@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb" format="2">
+  <unicode hex="0300"/>
+  <anchor x="167" y="492" name="_top"/>
+  <outline>
+    <contour>
+      <point x="218" y="558" type="curve"/>
+      <point x="230" y="566" type="line"/>
+      <point x="235" y="569"/>
+      <point x="237" y="573"/>
+      <point x="232" y="578" type="curve"/>
+      <point x="186" y="633"/>
+      <point x="146" y="690"/>
+      <point x="111" y="748" type="curve"/>
+      <point x="107" y="754"/>
+      <point x="103" y="756"/>
+      <point x="96" y="755" type="curve"/>
+      <point x="79" y="752"/>
+      <point x="58" y="743"/>
+      <point x="42" y="734" type="curve"/>
+      <point x="26" y="724"/>
+      <point x="25" y="720"/>
+      <point x="47" y="696" type="curve"/>
+      <point x="94" y="648"/>
+      <point x="148" y="603"/>
+      <point x="203" y="559" type="curve"/>
+      <point x="208" y="554"/>
+      <point x="213" y="555"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=30</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=30</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>265</integer>
+    </dict>
+  </lib>
+</glyph>

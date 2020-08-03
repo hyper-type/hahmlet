@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokeshortcomb" format="2">
+  <unicode hex="0335"/>
+  <anchor x="213" y="280" name="_center"/>
+  <outline>
+    <contour>
+      <point x="35" y="266" type="curve"/>
+      <point x="401" y="266" type="line"/>
+      <point x="406" y="266"/>
+      <point x="407" y="267"/>
+      <point x="408" y="272" type="curve"/>
+      <point x="409" y="278"/>
+      <point x="409" y="284"/>
+      <point x="409" y="289" type="curve"/>
+      <point x="409" y="294"/>
+      <point x="408" y="295"/>
+      <point x="403" y="295" type="curve"/>
+      <point x="362" y="293" type="line"/>
+      <point x="40" y="293" type="line"/>
+      <point x="35" y="293"/>
+      <point x="34" y="292"/>
+      <point x="33" y="287" type="curve"/>
+      <point x="30" y="272" type="line"/>
+      <point x="29" y="267"/>
+      <point x="30" y="266"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=30</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=30</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>439</integer>
+    </dict>
+  </lib>
+</glyph>

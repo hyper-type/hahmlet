@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero" format="2">
+  <advance width="1273"/>
+  <unicode hex="2116"/>
+  <anchor x="436" y="733" name="_top"/>
+  <anchor x="1042" y="263" name="center"/>
+  <anchor x="436" y="0" name="bottom"/>
+  <anchor x="436" y="733" name="top"/>
+  <outline>
+    <contour>
+      <point x="1042" y="366" type="curve" smooth="yes"/>
+      <point x="1152" y="366"/>
+      <point x="1218" y="437"/>
+      <point x="1218" y="552" type="curve" smooth="yes"/>
+      <point x="1218" y="667"/>
+      <point x="1151" y="739"/>
+      <point x="1042" y="739" type="curve" smooth="yes"/>
+      <point x="933" y="739"/>
+      <point x="866" y="667"/>
+      <point x="866" y="552" type="curve" smooth="yes"/>
+      <point x="866" y="437"/>
+      <point x="934" y="366"/>
+    </contour>
+    <contour>
+      <point x="1043" y="394" type="curve" smooth="yes"/>
+      <point x="955" y="394"/>
+      <point x="904" y="455"/>
+      <point x="904" y="555" type="curve" smooth="yes"/>
+      <point x="904" y="651"/>
+      <point x="954" y="710"/>
+      <point x="1040" y="710" type="curve" smooth="yes"/>
+      <point x="1127" y="710"/>
+      <point x="1181" y="648"/>
+      <point x="1181" y="548" type="curve" smooth="yes"/>
+      <point x="1181" y="452"/>
+      <point x="1129" y="394"/>
+    </contour>
+    <component base="N"/>
+    <component base="strokeshortcomb.short" xOffset="853" yOffset="-17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>N</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>N</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_slash.l" format="2">
+  <advance width="386"/>
+  <anchor x="182" y="396" name="_center"/>
+  <outline>
+    <contour>
+      <point x="39" y="240" type="curve"/>
+      <point x="342" y="412" type="line"/>
+      <point x="348" y="415"/>
+      <point x="352" y="421"/>
+      <point x="353" y="427" type="curve"/>
+      <point x="358" y="455"/>
+      <point x="358" y="494"/>
+      <point x="349" y="522" type="curve"/>
+      <point x="347" y="527"/>
+      <point x="343" y="529"/>
+      <point x="338" y="525" type="curve"/>
+      <point x="299" y="500" type="line"/>
+      <point x="39" y="350" type="line"/>
+      <point x="33" y="347"/>
+      <point x="30" y="341"/>
+      <point x="30" y="335" type="curve"/>
+      <point x="30" y="245" type="line"/>
+      <point x="30" y="239"/>
+      <point x="33" y="237"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=30</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=30</string>
+    </dict>
+  </lib>
+</glyph>

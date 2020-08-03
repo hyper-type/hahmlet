@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="siosCompa-ko" format="2">
+  <advance width="930"/>
+  <unicode hex="3145"/>
+  <outline>
+    <contour>
+      <point x="178" y="69" type="curve"/>
+      <point x="184" y="61" type="line"/>
+      <point x="190" y="52"/>
+      <point x="192" y="52"/>
+      <point x="201" y="57" type="curve"/>
+      <point x="377" y="167"/>
+      <point x="505" y="373"/>
+      <point x="505" y="548" type="curve"/>
+      <point x="514" y="569" type="line"/>
+      <point x="519" y="579"/>
+      <point x="518" y="580"/>
+      <point x="507" y="580" type="curve"/>
+      <point x="480" y="580" type="line"/>
+      <point x="469" y="580"/>
+      <point x="468" y="579"/>
+      <point x="468" y="568" type="curve"/>
+      <point x="469" y="546" type="line"/>
+      <point x="469" y="389"/>
+      <point x="326" y="163"/>
+      <point x="182" y="85" type="curve"/>
+      <point x="172" y="79"/>
+      <point x="172" y="78"/>
+    </contour>
+    <contour>
+      <point x="749" y="74" type="curve"/>
+      <point x="764" y="78"/>
+      <point x="774" y="90"/>
+      <point x="768" y="100" type="curve" smooth="yes"/>
+      <point x="689" y="223"/>
+      <point x="557" y="351"/>
+      <point x="453" y="406" type="curve"/>
+      <point x="439" y="378" type="line"/>
+      <point x="538" y="323"/>
+      <point x="643" y="220"/>
+      <point x="731" y="82" type="curve"/>
+      <point x="736" y="73"/>
+      <point x="738" y="72"/>
+    </contour>
+  </outline>
+</glyph>

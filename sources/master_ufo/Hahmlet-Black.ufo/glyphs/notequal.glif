@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal" format="2">
+  <advance width="670"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="499" y="654" type="curve"/>
+      <point x="469" y="588" type="line"/>
+      <point x="108" y="31" type="line"/>
+      <point x="72" y="-24"/>
+      <point x="74" y="-28"/>
+      <point x="109" y="-41" type="curve"/>
+      <point x="159" y="-59" type="line"/>
+      <point x="164" y="-61"/>
+      <point x="170" y="-58"/>
+      <point x="172" y="-53" type="curve"/>
+      <point x="202" y="14" type="line"/>
+      <point x="563" y="569" type="line"/>
+      <point x="599" y="624"/>
+      <point x="597" y="628"/>
+      <point x="563" y="641" type="curve"/>
+      <point x="512" y="660" type="line"/>
+      <point x="507" y="662"/>
+      <point x="501" y="659"/>
+    </contour>
+    <component base="equal"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>plus</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=670</string>
+    </dict>
+  </lib>
+</glyph>

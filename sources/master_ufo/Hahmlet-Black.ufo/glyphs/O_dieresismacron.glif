@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odieresismacron" format="2">
+  <advance width="966"/>
+  <unicode hex="022A"/>
+  <anchor x="483" y="0" name="bottom"/>
+  <anchor x="483" y="377" name="center"/>
+  <anchor x="573" y="0" name="ogonek"/>
+  <anchor x="483" y="1074" name="top"/>
+  <anchor x="24" y="754" name="topleft"/>
+  <anchor x="942" y="754" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="dieresiscomb.case" xOffset="249"/>
+    <component base="macroncomb.case" xOffset="259" yOffset="184"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>top</string>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>macroncomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

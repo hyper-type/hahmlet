@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicalnot" format="2">
+  <advance width="670"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="38" y="408" type="curve"/>
+      <point x="36" y="396"/>
+      <point x="35" y="384"/>
+      <point x="36" y="371" type="curve"/>
+      <point x="36" y="364"/>
+      <point x="38" y="361"/>
+      <point x="45" y="361" type="curve"/>
+      <point x="563" y="361" type="line"/>
+      <point x="563" y="106" type="line"/>
+      <point x="563" y="99"/>
+      <point x="565" y="96"/>
+      <point x="572" y="96" type="curve"/>
+      <point x="588" y="95"/>
+      <point x="604" y="96"/>
+      <point x="620" y="98" type="curve"/>
+      <point x="627" y="99"/>
+      <point x="630" y="101"/>
+      <point x="630" y="108" type="curve"/>
+      <point x="630" y="407" type="line"/>
+      <point x="630" y="414"/>
+      <point x="628" y="417"/>
+      <point x="621" y="417" type="curve"/>
+      <point x="50" y="417" type="line"/>
+      <point x="43" y="417"/>
+      <point x="40" y="415"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>minus</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=670</string>
+    </dict>
+  </lib>
+</glyph>

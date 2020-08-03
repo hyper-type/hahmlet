@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb" format="2">
+  <unicode hex="0301"/>
+  <anchor x="98" y="492" name="_top"/>
+  <outline>
+    <contour>
+      <point x="62" y="559" type="curve"/>
+      <point x="117" y="603"/>
+      <point x="171" y="648"/>
+      <point x="218" y="696" type="curve"/>
+      <point x="240" y="720"/>
+      <point x="239" y="724"/>
+      <point x="223" y="734" type="curve"/>
+      <point x="207" y="743"/>
+      <point x="186" y="752"/>
+      <point x="169" y="755" type="curve"/>
+      <point x="162" y="756"/>
+      <point x="158" y="754"/>
+      <point x="154" y="748" type="curve"/>
+      <point x="119" y="690"/>
+      <point x="79" y="633"/>
+      <point x="33" y="578" type="curve"/>
+      <point x="28" y="573"/>
+      <point x="30" y="569"/>
+      <point x="35" y="566" type="curve"/>
+      <point x="47" y="558" type="line"/>
+      <point x="52" y="555"/>
+      <point x="57" y="554"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=30</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=30</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>265</integer>
+    </dict>
+  </lib>
+</glyph>

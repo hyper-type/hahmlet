@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kiyeokCompa-ko" format="2">
+  <advance width="930"/>
+  <unicode hex="3131"/>
+  <outline>
+    <contour>
+      <point x="180" y="446" type="curve"/>
+      <point x="180" y="446" type="line"/>
+      <point x="351" y="457"/>
+      <point x="509" y="464"/>
+      <point x="674" y="467" type="curve"/>
+      <point x="672" y="600" type="line"/>
+      <point x="138" y="600" type="line"/>
+      <point x="125" y="600"/>
+      <point x="124" y="599"/>
+      <point x="128" y="586" type="curve"/>
+      <point x="162" y="459" type="line"/>
+      <point x="166" y="446"/>
+      <point x="167" y="445"/>
+    </contour>
+    <contour>
+      <point x="579" y="37" type="curve"/>
+      <point x="627" y="36"/>
+      <point x="699" y="41"/>
+      <point x="738" y="53" type="curve"/>
+      <point x="750" y="58"/>
+      <point x="751" y="59"/>
+      <point x="754" y="72" type="curve"/>
+      <point x="787" y="224"/>
+      <point x="799" y="355"/>
+      <point x="804" y="509" type="curve"/>
+      <point x="821" y="531" type="line"/>
+      <point x="829" y="541"/>
+      <point x="829" y="543"/>
+      <point x="819" y="551" type="curve"/>
+      <point x="778" y="585"/>
+      <point x="735" y="611"/>
+      <point x="694" y="628" type="curve"/>
+      <point x="682" y="633"/>
+      <point x="680" y="632"/>
+      <point x="671" y="624" type="curve"/>
+      <point x="637" y="594" type="line"/>
+      <point x="617" y="594" type="line"/>
+      <point x="617" y="403"/>
+      <point x="605" y="241"/>
+      <point x="568" y="52" type="curve"/>
+      <point x="565" y="39"/>
+      <point x="566" y="38"/>
+    </contour>
+  </outline>
+</glyph>

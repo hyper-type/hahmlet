@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus" format="2">
+  <advance width="670"/>
+  <unicode hex="002B"/>
+  <outline>
+    <contour>
+      <point x="39" y="310" type="curve"/>
+      <point x="37" y="297"/>
+      <point x="36" y="285"/>
+      <point x="36" y="272" type="curve"/>
+      <point x="37" y="265"/>
+      <point x="39" y="262"/>
+      <point x="46" y="262" type="curve"/>
+      <point x="618" y="262" type="line"/>
+      <point x="625" y="262"/>
+      <point x="628" y="264"/>
+      <point x="630" y="271" type="curve"/>
+      <point x="633" y="285"/>
+      <point x="634" y="298"/>
+      <point x="634" y="312" type="curve"/>
+      <point x="634" y="319"/>
+      <point x="632" y="322"/>
+      <point x="625" y="322" type="curve"/>
+      <point x="547" y="319" type="line"/>
+      <point x="51" y="319" type="line"/>
+      <point x="44" y="319"/>
+      <point x="41" y="317"/>
+    </contour>
+    <contour>
+      <point x="366" y="12" type="curve"/>
+      <point x="366" y="556" type="line"/>
+      <point x="366" y="563"/>
+      <point x="364" y="566"/>
+      <point x="357" y="566" type="curve"/>
+      <point x="340" y="566"/>
+      <point x="321" y="565"/>
+      <point x="307" y="562" type="curve"/>
+      <point x="300" y="561"/>
+      <point x="297" y="558"/>
+      <point x="298" y="551" type="curve"/>
+      <point x="301" y="500" type="line"/>
+      <point x="301" y="9" type="line"/>
+      <point x="301" y="2"/>
+      <point x="303" y="-1"/>
+      <point x="310" y="-2" type="curve"/>
+      <point x="325" y="-2"/>
+      <point x="341" y="-1"/>
+      <point x="356" y="1" type="curve"/>
+      <point x="363" y="2"/>
+      <point x="366" y="5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=670</string>
+    </dict>
+  </lib>
+</glyph>

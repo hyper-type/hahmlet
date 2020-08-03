@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenbar" format="2">
+  <advance width="490"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="213" y="-198" type="curve"/>
+      <point x="257" y="-195" type="line"/>
+      <point x="276" y="-193"/>
+      <point x="279" y="-190"/>
+      <point x="279" y="-157" type="curve"/>
+      <point x="279" y="122" type="line"/>
+      <point x="286" y="182" type="line"/>
+      <point x="287" y="189"/>
+      <point x="284" y="191"/>
+      <point x="277" y="191" type="curve"/>
+      <point x="256" y="190"/>
+      <point x="235" y="185"/>
+      <point x="215" y="181" type="curve"/>
+      <point x="205" y="178"/>
+      <point x="204" y="177"/>
+      <point x="204" y="164" type="curve"/>
+      <point x="204" y="-189" type="line"/>
+      <point x="204" y="-196"/>
+      <point x="206" y="-199"/>
+    </contour>
+    <contour>
+      <point x="213" y="414" type="curve"/>
+      <point x="257" y="417" type="line"/>
+      <point x="276" y="419"/>
+      <point x="279" y="422"/>
+      <point x="279" y="455" type="curve"/>
+      <point x="279" y="734" type="line"/>
+      <point x="286" y="794" type="line"/>
+      <point x="287" y="801"/>
+      <point x="284" y="803"/>
+      <point x="277" y="803" type="curve"/>
+      <point x="256" y="802"/>
+      <point x="235" y="798"/>
+      <point x="215" y="793" type="curve"/>
+      <point x="205" y="790"/>
+      <point x="204" y="789"/>
+      <point x="204" y="776" type="curve"/>
+      <point x="204" y="423" type="line"/>
+      <point x="204" y="416"/>
+      <point x="206" y="413"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>bar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>bar</string>
+    </dict>
+  </lib>
+</glyph>

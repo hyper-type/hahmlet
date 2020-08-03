@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="barlongcomb.case" format="2">
+  <advance width="934"/>
+  <anchor x="465" y="275" name="_center"/>
+  <outline>
+    <contour>
+      <point x="39" y="235" type="curve"/>
+      <point x="886" y="235" type="line"/>
+      <point x="892" y="235"/>
+      <point x="897" y="239"/>
+      <point x="898" y="245" type="curve"/>
+      <point x="904" y="273"/>
+      <point x="905" y="299"/>
+      <point x="904" y="326" type="curve"/>
+      <point x="904" y="332"/>
+      <point x="900" y="336"/>
+      <point x="894" y="336" type="curve"/>
+      <point x="764" y="329" type="line"/>
+      <point x="53" y="329" type="line"/>
+      <point x="47" y="329"/>
+      <point x="42" y="325"/>
+      <point x="42" y="319" type="curve"/>
+      <point x="30" y="245" type="line"/>
+      <point x="30" y="239"/>
+      <point x="33" y="235"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=30</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=30</string>
+    </dict>
+  </lib>
+</glyph>

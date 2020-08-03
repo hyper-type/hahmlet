@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ssi-ko" format="2">
+  <advance width="930"/>
+  <unicode hex="C528"/>
+  <note>
+uniC528
+</note>
+  <anchor x="839.875" y="-118" name="top"/>
+  <outline>
+    <contour>
+      <point x="350" y="109" type="curve"/>
+      <point x="350" y="109" type="line"/>
+      <point x="462" y="201"/>
+      <point x="542" y="446"/>
+      <point x="542" y="649" type="curve"/>
+      <point x="555" y="690" type="line"/>
+      <point x="559" y="702"/>
+      <point x="558" y="703"/>
+      <point x="545" y="704" type="curve"/>
+      <point x="388" y="709" type="line"/>
+      <point x="375" y="710"/>
+      <point x="374" y="709"/>
+      <point x="374" y="696" type="curve"/>
+      <point x="375" y="642" type="line"/>
+      <point x="380" y="471"/>
+      <point x="347" y="274"/>
+      <point x="272" y="192" type="curve"/>
+      <point x="263" y="183"/>
+      <point x="263" y="181"/>
+      <point x="272" y="172" type="curve"/>
+      <point x="329" y="111" type="line"/>
+      <point x="338" y="102"/>
+      <point x="340" y="102"/>
+    </contour>
+    <contour>
+      <point x="107" y="121" type="curve"/>
+      <point x="107" y="121" type="line"/>
+      <point x="195" y="217"/>
+      <point x="291" y="462"/>
+      <point x="291" y="647" type="curve"/>
+      <point x="304" y="687" type="line"/>
+      <point x="309" y="699"/>
+      <point x="308" y="700"/>
+      <point x="295" y="700" type="curve"/>
+      <point x="138" y="705" type="line"/>
+      <point x="125" y="705"/>
+      <point x="124" y="704"/>
+      <point x="124" y="691" type="curve"/>
+      <point x="126" y="637" type="line"/>
+      <point x="130" y="461"/>
+      <point x="75" y="276"/>
+      <point x="27" y="203" type="curve"/>
+      <point x="20" y="193"/>
+      <point x="20" y="191"/>
+      <point x="29" y="182" type="curve"/>
+      <point x="87" y="121" type="line"/>
+      <point x="96" y="112"/>
+      <point x="98" y="112"/>
+    </contour>
+    <contour>
+      <point x="260" y="214" type="curve"/>
+      <point x="311" y="205"/>
+      <point x="366" y="232"/>
+      <point x="365" y="277" type="curve" smooth="yes"/>
+      <point x="364" y="335"/>
+      <point x="316" y="440"/>
+      <point x="260" y="503" type="curve"/>
+      <point x="232" y="429" type="line"/>
+      <point x="251" y="371"/>
+      <point x="247" y="295"/>
+      <point x="246" y="231" type="curve"/>
+      <point x="246" y="218"/>
+      <point x="247" y="217"/>
+    </contour>
+    <contour>
+      <point x="503" y="142" type="curve"/>
+      <point x="572" y="115"/>
+      <point x="631" y="135"/>
+      <point x="630" y="197" type="curve" smooth="yes"/>
+      <point x="629" y="292"/>
+      <point x="577" y="413"/>
+      <point x="520" y="494" type="curve"/>
+      <point x="479" y="408" type="line"/>
+      <point x="495" y="340"/>
+      <point x="504" y="230"/>
+      <point x="493" y="161" type="curve"/>
+      <point x="490" y="148"/>
+      <point x="491" y="147"/>
+    </contour>
+    <contour>
+      <point x="674" y="-103" type="curve"/>
+      <point x="674" y="-103" type="line"/>
+      <point x="766" y="-101" type="line"/>
+      <point x="813" y="-100"/>
+      <point x="840" y="-89"/>
+      <point x="840" y="-61" type="curve"/>
+      <point x="840" y="762" type="line"/>
+      <point x="847" y="769"/>
+      <point x="853" y="778"/>
+      <point x="859" y="787" type="curve"/>
+      <point x="865" y="799"/>
+      <point x="864" y="800"/>
+      <point x="851" y="800" type="curve"/>
+      <point x="669" y="800" type="line"/>
+      <point x="656" y="800"/>
+      <point x="655" y="799"/>
+      <point x="656" y="786" type="curve"/>
+      <point x="660" y="693" type="line"/>
+      <point x="660" y="-89" type="line"/>
+      <point x="660" y="-102"/>
+      <point x="661" y="-103"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>hangul</string>
+      <key>de.kutilek.scrawl.data</key>
+      <data>
+      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
+      TkSuQmCC
+      </data>
+      <key>de.kutilek.scrawl.rect</key>
+      <array>
+        <integer>-102</integer>
+        <integer>-300</integer>
+        <integer>1154</integer>
+        <integer>1228</integer>
+      </array>
+      <key>de.kutilek.scrawl.size</key>
+      <integer>2</integer>
+      <key>de.kutilek.scrawl.unit</key>
+      <integer>2</integer>
+    </dict>
+  </lib>
+</glyph>

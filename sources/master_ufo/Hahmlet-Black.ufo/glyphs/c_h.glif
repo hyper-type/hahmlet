@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c_h" format="2">
+  <advance width="1244"/>
+  <anchor x="306" y="0" name="bottom_1"/>
+  <anchor x="893" y="0" name="bottom_2"/>
+  <anchor x="768" y="584" name="center"/>
+  <anchor x="306" y="500" name="top_1"/>
+  <anchor x="718" y="754" name="top_2"/>
+  <outline>
+    <component base="c"/>
+    <component base="h" xOffset="546"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>c</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>h</string>
+    </dict>
+  </lib>
+</glyph>

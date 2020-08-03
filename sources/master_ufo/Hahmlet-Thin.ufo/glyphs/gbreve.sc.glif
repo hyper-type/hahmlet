@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gbreve.sc" format="2">
+  <advance width="616"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="310" y="659" name="top"/>
+  <outline>
+    <component base="g.sc"/>
+    <component base="brevecomb" xOffset="144" yOffset="29"/>
+  </outline>
+</glyph>

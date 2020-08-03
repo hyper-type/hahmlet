@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="araeaCompa-ko" format="2">
+  <advance width="930"/>
+  <unicode hex="318D"/>
+  <outline>
+    <contour>
+      <point x="465" y="251" type="curve"/>
+      <point x="521" y="251"/>
+      <point x="563" y="292"/>
+      <point x="563" y="348" type="curve"/>
+      <point x="563" y="404"/>
+      <point x="521" y="445"/>
+      <point x="465" y="445" type="curve"/>
+      <point x="408" y="445"/>
+      <point x="367" y="404"/>
+      <point x="367" y="348" type="curve"/>
+      <point x="367" y="292"/>
+      <point x="408" y="251"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question.sc" format="2">
+  <advance width="460"/>
+  <outline>
+    <contour>
+      <point x="170" y="162" type="curve"/>
+      <point x="180" y="163" type="line"/>
+      <point x="187" y="164"/>
+      <point x="190" y="167"/>
+      <point x="188" y="174" type="curve"/>
+      <point x="175" y="234"/>
+      <point x="178" y="249"/>
+      <point x="260" y="272" type="curve" smooth="yes"/>
+      <point x="334" y="293"/>
+      <point x="361" y="320"/>
+      <point x="361" y="376" type="curve" smooth="yes"/>
+      <point x="361" y="464"/>
+      <point x="275" y="538"/>
+      <point x="116" y="550" type="curve"/>
+      <point x="109" y="551"/>
+      <point x="105" y="549"/>
+      <point x="101" y="544" type="curve"/>
+      <point x="88" y="524"/>
+      <point x="82" y="500"/>
+      <point x="80" y="477" type="curve"/>
+      <point x="80" y="470"/>
+      <point x="82" y="467"/>
+      <point x="89" y="467" type="curve"/>
+      <point x="247" y="457"/>
+      <point x="298" y="416"/>
+      <point x="298" y="373" type="curve" smooth="yes"/>
+      <point x="298" y="349"/>
+      <point x="275" y="340"/>
+      <point x="222" y="329" type="curve" smooth="yes"/>
+      <point x="138" y="312"/>
+      <point x="114" y="290"/>
+      <point x="114" y="245" type="curve" smooth="yes"/>
+      <point x="114" y="222"/>
+      <point x="128" y="196"/>
+      <point x="154" y="167" type="curve"/>
+      <point x="159" y="162"/>
+      <point x="163" y="160"/>
+    </contour>
+    <contour>
+      <point x="170" y="-7" type="curve" smooth="yes"/>
+      <point x="202" y="-7"/>
+      <point x="227" y="14"/>
+      <point x="227" y="43" type="curve" smooth="yes"/>
+      <point x="227" y="73"/>
+      <point x="202" y="94"/>
+      <point x="170" y="94" type="curve" smooth="yes"/>
+      <point x="137" y="94"/>
+      <point x="112" y="73"/>
+      <point x="112" y="43" type="curve" smooth="yes"/>
+      <point x="112" y="14"/>
+      <point x="138" y="-7"/>
+    </contour>
+  </outline>
+</glyph>

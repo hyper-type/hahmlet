@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sacutedotaccent" format="2">
+  <advance width="510"/>
+  <unicode hex="1E65"/>
+  <anchor x="255" y="0" name="bottom"/>
+  <anchor x="255" y="486" name="top"/>
+  <anchor x="183" y="486" name="top_acutedot"/>
+  <outline>
+    <component base="s"/>
+    <component base="acutedotaccentcomb" xOffset="120"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>top_acutedot</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acutedotaccentcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

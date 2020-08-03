@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_horn.O" format="2">
+  <advance width="304"/>
+  <anchor x="343" y="742" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="30" y="736" type="curve"/>
+      <point x="57" y="693" type="line"/>
+      <point x="200" y="668"/>
+      <point x="274" y="706"/>
+      <point x="274" y="802" type="curve" smooth="yes"/>
+      <point x="274" y="830"/>
+      <point x="270" y="850"/>
+      <point x="262" y="855" type="curve" smooth="yes"/>
+      <point x="245" y="868"/>
+      <point x="210" y="861"/>
+      <point x="190" y="851" type="curve"/>
+      <point x="184" y="848"/>
+      <point x="182" y="844"/>
+      <point x="185" y="838" type="curve"/>
+      <point x="192" y="823"/>
+      <point x="196" y="807"/>
+      <point x="196" y="790" type="curve" smooth="yes"/>
+      <point x="196" y="728"/>
+      <point x="167" y="707"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=30</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=30</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_slash.L.sc" format="2">
+  <advance width="486"/>
+  <anchor x="345" y="366" name="_center"/>
+  <outline>
+    <contour>
+      <point x="123" y="328" type="curve"/>
+      <point x="441" y="443" type="line"/>
+      <point x="446" y="445"/>
+      <point x="447" y="446"/>
+      <point x="448" y="451" type="curve"/>
+      <point x="448" y="458"/>
+      <point x="448" y="466"/>
+      <point x="445" y="472" type="curve"/>
+      <point x="443" y="477"/>
+      <point x="442" y="478"/>
+      <point x="438" y="475" type="curve"/>
+      <point x="396" y="454" type="line"/>
+      <point x="123" y="356" type="line"/>
+      <point x="118" y="354"/>
+      <point x="117" y="353"/>
+      <point x="117" y="348" type="curve"/>
+      <point x="117" y="332" type="line"/>
+      <point x="117" y="327"/>
+      <point x="118" y="326"/>
+    </contour>
+  </outline>
+</glyph>

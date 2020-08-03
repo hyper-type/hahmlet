@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thorn.sc" format="2">
+  <advance width="638"/>
+  <anchor x="204" y="0" name="bottom"/>
+  <anchor x="240" y="0" name="ogonek"/>
+  <anchor x="204" y="556" name="top"/>
+  <anchor x="40" y="556" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="307" y="107" type="line"/>
+      <point x="332" y="104"/>
+      <point x="372" y="102"/>
+      <point x="413" y="102" type="curve" smooth="yes"/>
+      <point x="537" y="102"/>
+      <point x="612" y="169"/>
+      <point x="612" y="278" type="curve" smooth="yes"/>
+      <point x="612" y="391"/>
+      <point x="532" y="455"/>
+      <point x="393" y="455" type="curve" smooth="yes"/>
+      <point x="307" y="455" type="line"/>
+      <point x="307" y="367" type="line"/>
+      <point x="358" y="367" type="line" smooth="yes"/>
+      <point x="402" y="367"/>
+      <point x="430" y="332"/>
+      <point x="430" y="278" type="curve" smooth="yes"/>
+      <point x="430" y="223"/>
+      <point x="402" y="187"/>
+      <point x="358" y="187" type="curve" smooth="yes"/>
+      <point x="342" y="187"/>
+      <point x="328" y="187"/>
+      <point x="307" y="187" type="curve"/>
+    </contour>
+    <component base="i.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>i.sc</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>i.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>p.sc</string>
+    </dict>
+  </lib>
+</glyph>

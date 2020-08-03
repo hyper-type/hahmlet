@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f.sc" format="2">
+  <advance width="576"/>
+  <anchor x="288" y="0" name="bottom"/>
+  <anchor x="288" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="132" y="0" type="line"/>
+      <point x="224" y="0" type="line"/>
+      <point x="224" y="536" type="line"/>
+      <point x="132" y="536" type="line"/>
+    </contour>
+    <contour>
+      <point x="437" y="169" type="curve"/>
+      <point x="446" y="169" type="line"/>
+      <point x="453" y="169"/>
+      <point x="456" y="171"/>
+      <point x="456" y="178" type="curve"/>
+      <point x="456" y="333" type="line"/>
+      <point x="456" y="340"/>
+      <point x="454" y="343"/>
+      <point x="447" y="343" type="curve"/>
+      <point x="438" y="343" type="line"/>
+      <point x="431" y="343"/>
+      <point x="427" y="341"/>
+      <point x="425" y="334" type="curve"/>
+      <point x="415" y="303" type="line"/>
+      <point x="410" y="288"/>
+      <point x="404" y="283"/>
+      <point x="388" y="283" type="curve"/>
+      <point x="224" y="283" type="line"/>
+      <point x="224" y="236" type="line"/>
+      <point x="387" y="236" type="line"/>
+      <point x="403" y="236"/>
+      <point x="409" y="232"/>
+      <point x="414" y="217" type="curve"/>
+      <point x="425" y="179" type="line"/>
+      <point x="427" y="172"/>
+      <point x="430" y="169"/>
+    </contour>
+    <contour>
+      <point x="502" y="398" type="curve"/>
+      <point x="513" y="400" type="line"/>
+      <point x="520" y="401"/>
+      <point x="523" y="404"/>
+      <point x="523" y="411" type="curve"/>
+      <point x="518" y="521" type="line"/>
+      <point x="517" y="538"/>
+      <point x="510" y="542"/>
+      <point x="491" y="541" type="curve"/>
+      <point x="443" y="536" type="line"/>
+      <point x="224" y="536" type="line"/>
+      <point x="224" y="489" type="line"/>
+      <point x="433" y="489" type="line"/>
+      <point x="449" y="489"/>
+      <point x="456" y="485"/>
+      <point x="462" y="471" type="curve"/>
+      <point x="489" y="405" type="line"/>
+      <point x="492" y="399"/>
+      <point x="495" y="396"/>
+    </contour>
+    <contour>
+      <point x="57" y="0" type="curve"/>
+      <point x="333" y="0" type="line"/>
+      <point x="340" y="0"/>
+      <point x="343" y="2"/>
+      <point x="343" y="9" type="curve"/>
+      <point x="343" y="19" type="line"/>
+      <point x="343" y="26"/>
+      <point x="341" y="29"/>
+      <point x="334" y="30" type="curve"/>
+      <point x="245" y="41" type="line"/>
+      <point x="229" y="43"/>
+      <point x="224" y="48"/>
+      <point x="224" y="64" type="curve"/>
+      <point x="224" y="152" type="line"/>
+      <point x="132" y="152" type="line"/>
+      <point x="132" y="65" type="line"/>
+      <point x="132" y="49"/>
+      <point x="128" y="43"/>
+      <point x="112" y="40" type="curve"/>
+      <point x="58" y="31" type="line"/>
+      <point x="51" y="30"/>
+      <point x="48" y="27"/>
+      <point x="48" y="20" type="curve"/>
+      <point x="48" y="10" type="line"/>
+      <point x="48" y="3"/>
+      <point x="50" y="0"/>
+    </contour>
+    <contour>
+      <point x="48" y="526" type="curve"/>
+      <point x="48" y="516" type="line"/>
+      <point x="48" y="509"/>
+      <point x="51" y="506"/>
+      <point x="58" y="505" type="curve"/>
+      <point x="112" y="496" type="line"/>
+      <point x="128" y="493"/>
+      <point x="132" y="487"/>
+      <point x="132" y="471" type="curve"/>
+      <point x="132" y="384" type="line"/>
+      <point x="224" y="384" type="line"/>
+      <point x="224" y="536" type="line"/>
+      <point x="57" y="536" type="line"/>
+      <point x="50" y="536"/>
+      <point x="48" y="533"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>12</integer>
+        <key>height</key>
+        <integer>72</integer>
+        <key>weight</key>
+        <integer>-1</integer>
+        <key>width</key>
+        <integer>75</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+    </dict>
+  </lib>
+</glyph>

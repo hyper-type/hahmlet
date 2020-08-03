@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ruble" format="2">
+  <advance width="763"/>
+  <unicode hex="20BD"/>
+  <anchor x="382" y="0" name="bottom"/>
+  <anchor x="382" y="754" name="top"/>
+  <outline>
+    <contour>
+      <point x="54" y="360" type="curve"/>
+      <point x="48" y="308" type="line"/>
+      <point x="47" y="302"/>
+      <point x="51" y="298"/>
+      <point x="57" y="298" type="curve"/>
+      <point x="330" y="298" type="line"/>
+      <point x="330" y="370" type="line"/>
+      <point x="65" y="370" type="line"/>
+      <point x="59" y="370"/>
+      <point x="55" y="366"/>
+    </contour>
+    <contour>
+      <point x="54" y="218" type="curve"/>
+      <point x="48" y="165" type="line"/>
+      <point x="47" y="159"/>
+      <point x="51" y="155"/>
+      <point x="57" y="155" type="curve"/>
+      <point x="583" y="155" type="line"/>
+      <point x="589" y="155"/>
+      <point x="594" y="159"/>
+      <point x="594" y="165" type="curve"/>
+      <point x="603" y="225" type="line"/>
+      <point x="603" y="231"/>
+      <point x="600" y="235"/>
+      <point x="594" y="234" type="curve"/>
+      <point x="489" y="228" type="line"/>
+      <point x="65" y="228" type="line"/>
+      <point x="59" y="228"/>
+      <point x="55" y="224"/>
+    </contour>
+    <component base="P" xOffset="24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>peseta</string>
+    </dict>
+  </lib>
+</glyph>

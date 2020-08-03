@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yesieungCompa-ko" format="2">
+  <advance width="930"/>
+  <unicode hex="3181"/>
+  <anchor x="1082" y="707" name="_mim"/>
+  <outline>
+    <contour>
+      <point x="114" y="295" type="curve" smooth="yes"/>
+      <point x="114" y="139"/>
+      <point x="260" y="28"/>
+      <point x="466" y="28" type="curve" smooth="yes"/>
+      <point x="671" y="28"/>
+      <point x="817" y="139"/>
+      <point x="817" y="295" type="curve" smooth="yes"/>
+      <point x="817" y="452"/>
+      <point x="671" y="564"/>
+      <point x="466" y="564" type="curve" smooth="yes"/>
+      <point x="260" y="564"/>
+      <point x="114" y="452"/>
+    </contour>
+    <contour>
+      <point x="601" y="295" type="curve" smooth="yes"/>
+      <point x="601" y="225"/>
+      <point x="545" y="175"/>
+      <point x="466" y="175" type="curve" smooth="yes"/>
+      <point x="388" y="175"/>
+      <point x="332" y="225"/>
+      <point x="332" y="295" type="curve" smooth="yes"/>
+      <point x="332" y="366"/>
+      <point x="388" y="416"/>
+      <point x="466" y="416" type="curve" smooth="yes"/>
+      <point x="545" y="416"/>
+      <point x="601" y="366"/>
+    </contour>
+    <contour>
+      <point x="397" y="514" type="line"/>
+      <point x="537" y="514" type="line"/>
+      <point x="537" y="628" type="line"/>
+      <point x="542" y="636"/>
+      <point x="547" y="645"/>
+      <point x="551" y="655" type="curve"/>
+      <point x="556" y="667"/>
+      <point x="555" y="668"/>
+      <point x="542" y="668" type="curve"/>
+      <point x="408" y="668" type="line"/>
+      <point x="395" y="668"/>
+      <point x="394" y="667"/>
+      <point x="394" y="654" type="curve"/>
+      <point x="397" y="554" type="line"/>
+    </contour>
+  </outline>
+</glyph>

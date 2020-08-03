@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boeg-ko" format="2">
+  <advance width="930"/>
+  <unicode hex="BD49"/>
+  <anchor x="828.159" y="-112.986" name="top"/>
+  <outline>
+    <contour>
+      <point x="105" y="397" type="curve"/>
+      <point x="105" y="397" type="line"/>
+      <point x="188" y="402" type="line"/>
+      <point x="253" y="406"/>
+      <point x="257" y="410"/>
+      <point x="257" y="447" type="curve"/>
+      <point x="257" y="461" type="line"/>
+      <point x="276" y="502" type="line"/>
+      <point x="276" y="717" type="line"/>
+      <point x="284" y="726"/>
+      <point x="289" y="736"/>
+      <point x="294" y="747" type="curve"/>
+      <point x="301" y="758"/>
+      <point x="300" y="759"/>
+      <point x="287" y="759" type="curve"/>
+      <point x="99" y="759" type="line"/>
+      <point x="86" y="759"/>
+      <point x="85" y="758"/>
+      <point x="86" y="745" type="curve"/>
+      <point x="91" y="695" type="line"/>
+      <point x="91" y="410" type="line"/>
+      <point x="91" y="397"/>
+      <point x="92" y="396"/>
+    </contour>
+    <contour>
+      <point x="189" y="426" type="line"/>
+      <point x="483" y="426" type="line"/>
+      <point x="483" y="522" type="line"/>
+      <point x="189" y="522" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="588" type="line"/>
+      <point x="483" y="588" type="line"/>
+      <point x="483" y="675" type="line"/>
+      <point x="189" y="675" type="line"/>
+    </contour>
+    <contour>
+      <point x="427" y="407" type="curve"/>
+      <point x="427" y="407" type="line"/>
+      <point x="512" y="412" type="line"/>
+      <point x="577" y="416"/>
+      <point x="581" y="420"/>
+      <point x="581" y="457" type="curve"/>
+      <point x="581" y="717" type="line"/>
+      <point x="589" y="726"/>
+      <point x="594" y="736"/>
+      <point x="599" y="747" type="curve"/>
+      <point x="606" y="758"/>
+      <point x="605" y="759"/>
+      <point x="592" y="759" type="curve"/>
+      <point x="404" y="759" type="line"/>
+      <point x="391" y="759"/>
+      <point x="390" y="758"/>
+      <point x="391" y="745" type="curve"/>
+      <point x="394" y="695" type="line"/>
+      <point x="394" y="496" type="line"/>
+      <point x="413" y="463" type="line"/>
+      <point x="413" y="420" type="line"/>
+      <point x="413" y="407"/>
+      <point x="414" y="406"/>
+    </contour>
+    <contour>
+      <point x="650" y="218" type="curve"/>
+      <point x="650" y="218" type="line"/>
+      <point x="755" y="220" type="line"/>
+      <point x="802" y="221"/>
+      <point x="829" y="233"/>
+      <point x="829" y="261" type="curve"/>
+      <point x="829" y="767" type="line"/>
+      <point x="835" y="774"/>
+      <point x="843" y="783"/>
+      <point x="849" y="793" type="curve"/>
+      <point x="855" y="804"/>
+      <point x="855" y="805"/>
+      <point x="842" y="805" type="curve"/>
+      <point x="645" y="805" type="line"/>
+      <point x="632" y="805"/>
+      <point x="631" y="804"/>
+      <point x="632" y="791" type="curve"/>
+      <point x="636" y="701" type="line"/>
+      <point x="636" y="232" type="line"/>
+      <point x="636" y="219"/>
+      <point x="637" y="218"/>
+    </contour>
+    <contour>
+      <point x="90" y="218" type="curve"/>
+      <point x="90" y="218" type="line"/>
+      <point x="236" y="230"/>
+      <point x="512" y="259"/>
+      <point x="712" y="295" type="curve"/>
+      <point x="725" y="297"/>
+      <point x="725" y="298"/>
+      <point x="724" y="311" type="curve"/>
+      <point x="720" y="378" type="line"/>
+      <point x="719" y="391"/>
+      <point x="718" y="392"/>
+      <point x="705" y="391" type="curve"/>
+      <point x="513" y="367"/>
+      <point x="243" y="354"/>
+      <point x="48" y="360" type="curve"/>
+      <point x="35" y="360"/>
+      <point x="35" y="359"/>
+      <point x="38" y="347" type="curve"/>
+      <point x="73" y="231" type="line"/>
+      <point x="76" y="218"/>
+      <point x="77" y="217"/>
+    </contour>
+    <contour>
+      <point x="268" y="298" type="curve"/>
+      <point x="268" y="298" type="line"/>
+      <point x="356" y="299" type="line"/>
+      <point x="403" y="299"/>
+      <point x="430" y="310"/>
+      <point x="430" y="338" type="curve"/>
+      <point x="430" y="402" type="line"/>
+      <point x="431" y="408"/>
+      <point x="434" y="418"/>
+      <point x="439" y="428" type="curve"/>
+      <point x="445" y="439"/>
+      <point x="444" y="440"/>
+      <point x="431" y="440" type="curve"/>
+      <point x="263" y="440" type="line"/>
+      <point x="250" y="440"/>
+      <point x="249" y="439"/>
+      <point x="250" y="426" type="curve"/>
+      <point x="254" y="343" type="line"/>
+      <point x="254" y="312" type="line"/>
+      <point x="254" y="299"/>
+      <point x="255" y="298"/>
+    </contour>
+    <contour>
+      <point x="232" y="39" type="curve"/>
+      <point x="232" y="39" type="line"/>
+      <point x="376" y="50"/>
+      <point x="519" y="57"/>
+      <point x="669" y="61" type="curve"/>
+      <point x="681" y="174" type="line"/>
+      <point x="194" y="174" type="line"/>
+      <point x="181" y="174"/>
+      <point x="180" y="173"/>
+      <point x="184" y="161" type="curve"/>
+      <point x="214" y="51" type="line"/>
+      <point x="218" y="39"/>
+      <point x="219" y="38"/>
+    </contour>
+    <contour>
+      <point x="627" y="-100" type="curve"/>
+      <point x="627" y="-100" type="line"/>
+      <point x="657" y="-101"/>
+      <point x="700" y="-99"/>
+      <point x="739" y="-96" type="curve"/>
+      <point x="786" y="-91"/>
+      <point x="813" y="-77"/>
+      <point x="813" y="-49" type="curve"/>
+      <point x="813" y="48" type="line"/>
+      <point x="830" y="68" type="line"/>
+      <point x="838" y="78"/>
+      <point x="838" y="80"/>
+      <point x="831" y="91" type="curve"/>
+      <point x="806" y="127"/>
+      <point x="770" y="163"/>
+      <point x="732" y="189" type="curve"/>
+      <point x="721" y="195"/>
+      <point x="719" y="196"/>
+      <point x="707" y="190" type="curve"/>
+      <point x="662" y="168" type="line"/>
+      <point x="613" y="80" type="line"/>
+      <point x="613" y="-86" type="line"/>
+      <point x="613" y="-99"/>
+      <point x="614" y="-100"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>de.kutilek.scrawl.data</key>
+      <data>
+      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
+      y+zW9zr6Wpkd/XC3ni2zW9/r6GtldvTD3Xq2zG59r6OvldnRD3fr2TK79b2OvlZmRz/cr
+      WfL7Nb3OvpamR39cLeeLbNb3+voa2V29MPderbMbn2vo6+V2dEPd+vZMrv1vY6+VmZHP9
+      ytZ8vs1vc6+lqZHf1wt54ts1vf6+hrZXb0w916tsxufa+jr5XZ0Q9369kyu/W9jr5WZkc
+      /3K1ny+zW9zr6Wpkd/XC3ni2zW9/r6GtldvTD3Xq2zG59r6OvldnRD3fr2TK79b2OvlZm
+      Rz/crWfL7Nb3OvpamR39cLeeLbNb3+voa2V29MPderbMbn2vo6+V2dEPd+vZMrv1vY6+V
+      mZHP9ytZ8vs1vc6+lqZHf1wt54ts1vf6+hrZXb0w916tsye+V4/n1l65R2ZPfP1v/9+Zu
+      uFd94/XviX96uvBPw1W0m/9B2ZvfTnX/3yMltJv/Qdmb3051/98jILpb/5j8tQ6tGYzB6
+      pPPjZl88PfuhHoYD/oRFCGWsE/DVr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjIL
+      oYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1A
+      jJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9O
+      yGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjI
+      LoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1
+      AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9
+      OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAj
+      ILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw
+      1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr
+      9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGA
+      jILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoY
+      w1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJ
+      r9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyG
+      AjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILo
+      Yw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1Aj
+      Jr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9Oy
+      GAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjIL
+      oYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1A
+      jJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9O
+      yGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjI
+      LoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1
+      AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9
+      OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAj
+      ILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw
+      1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr
+      9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGA
+      jILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoY
+      w1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJr9OyGAjILoYw1AjJ
+      r9OyGAn8AlVQPQOX0kAoAAAAASUVORK5CYII=
+      </data>
+      <key>de.kutilek.scrawl.rect</key>
+      <array>
+        <integer>-102</integer>
+        <integer>-300</integer>
+        <integer>1228</integer>
+        <integer>1228</integer>
+      </array>
+      <key>de.kutilek.scrawl.size</key>
+      <integer>2</integer>
+      <key>de.kutilek.scrawl.unit</key>
+      <integer>2</integer>
+    </dict>
+  </lib>
+</glyph>

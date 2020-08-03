@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinemod" format="2">
+  <advance width="305"/>
+  <unicode hex="02C8"/>
+  <outline>
+    <contour>
+      <point x="129" y="501" type="curve"/>
+      <point x="175" y="501" type="line"/>
+      <point x="182" y="501"/>
+      <point x="185" y="503"/>
+      <point x="185" y="510" type="curve"/>
+      <point x="185" y="745" type="line"/>
+      <point x="185" y="752"/>
+      <point x="183" y="755"/>
+      <point x="176" y="755" type="curve"/>
+      <point x="130" y="755" type="line"/>
+      <point x="123" y="755"/>
+      <point x="120" y="753"/>
+      <point x="120" y="746" type="curve"/>
+      <point x="120" y="511" type="line"/>
+      <point x="120" y="504"/>
+      <point x="122" y="501"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=120</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=120</string>
+    </dict>
+  </lib>
+</glyph>

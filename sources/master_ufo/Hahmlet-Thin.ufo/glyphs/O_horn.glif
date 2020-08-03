@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohorn" format="2">
+  <advance width="866"/>
+  <unicode hex="01A0"/>
+  <anchor x="434" y="0" name="bottom"/>
+  <anchor x="434" y="366" name="center"/>
+  <anchor x="482" y="0" name="ogonek"/>
+  <anchor x="434" y="733" name="top"/>
+  <anchor x="24" y="733" name="topleft"/>
+  <anchor x="842" y="733" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="_horn.O" xOffset="493"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=O@200</string>
+    </dict>
+  </lib>
+</glyph>

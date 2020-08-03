@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblrightreversed" format="2">
+  <advance width="640"/>
+  <unicode hex="201F"/>
+  <outline>
+    <component base="comma" xScale="-1" xOffset="364" yOffset="608"/>
+    <component base="comma" xScale="-1" xOffset="640" yOffset="608"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|comma</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|comma</string>
+    </dict>
+  </lib>
+</glyph>

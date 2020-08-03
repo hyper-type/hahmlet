@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="635"/>
+  <unicode hex="0111"/>
+  <anchor x="319" y="0" name="bottom"/>
+  <anchor x="438" y="589" name="center"/>
+  <anchor x="319" y="742" name="top"/>
+  <anchor x="619" y="492" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="strokeshortcomb.short" xOffset="232" yOffset="311"/>
+  </outline>
+</glyph>

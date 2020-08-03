@@ -1,0 +1,249 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="den-ko" format="2">
+  <advance width="930"/>
+  <unicode hex="B374"/>
+  <note>
+uniB374
+</note>
+  <anchor x="868.614" y="-118" name="top"/>
+  <outline>
+    <contour>
+      <point x="197" y="403" type="curve"/>
+      <point x="202" y="303" type="line"/>
+      <point x="273" y="301"/>
+      <point x="352" y="306"/>
+      <point x="435" y="315" type="curve"/>
+      <point x="499" y="323"/>
+      <point x="502" y="328"/>
+      <point x="488" y="362" type="curve"/>
+      <point x="473" y="393"/>
+      <point x="448" y="427"/>
+      <point x="426" y="449" type="curve"/>
+      <point x="417" y="458"/>
+      <point x="415" y="458"/>
+      <point x="404" y="452" type="curve"/>
+      <point x="345" y="418" type="line"/>
+      <point x="284" y="410"/>
+      <point x="226" y="403"/>
+    </contour>
+    <contour>
+      <point x="96" y="280" type="curve"/>
+      <point x="96" y="280" type="line"/>
+      <point x="192" y="290" type="line"/>
+      <point x="239" y="295"/>
+      <point x="266" y="309"/>
+      <point x="266" y="337" type="curve"/>
+      <point x="266" y="643" type="line"/>
+      <point x="82" y="638" type="line"/>
+      <point x="82" y="293" type="line"/>
+      <point x="82" y="280"/>
+      <point x="83" y="279"/>
+    </contour>
+    <contour>
+      <point x="89" y="612" type="curve"/>
+      <point x="89" y="612" type="line"/>
+      <point x="190" y="619"/>
+      <point x="295" y="618"/>
+      <point x="430" y="615" type="curve"/>
+      <point x="495" y="613"/>
+      <point x="498" y="617"/>
+      <point x="486" y="652" type="curve"/>
+      <point x="472" y="686"/>
+      <point x="457" y="715"/>
+      <point x="442" y="737" type="curve"/>
+      <point x="434" y="747"/>
+      <point x="432" y="748"/>
+      <point x="420" y="743" type="curve"/>
+      <point x="369" y="723" type="line"/>
+      <point x="254" y="713"/>
+      <point x="172" y="714"/>
+      <point x="64" y="721" type="curve"/>
+      <point x="51" y="722"/>
+      <point x="50" y="721"/>
+      <point x="53" y="708" type="curve"/>
+      <point x="72" y="625" type="line"/>
+      <point x="75" y="612"/>
+      <point x="76" y="611"/>
+    </contour>
+    <contour>
+      <point x="560" y="159" type="curve"/>
+      <point x="560" y="159" type="line"/>
+      <point x="613" y="159" type="line"/>
+      <point x="660" y="158"/>
+      <point x="687" y="169"/>
+      <point x="687" y="197" type="curve"/>
+      <point x="687" y="743" type="line"/>
+      <point x="688" y="750"/>
+      <point x="691" y="759"/>
+      <point x="694" y="768" type="curve"/>
+      <point x="698" y="780"/>
+      <point x="698" y="781"/>
+      <point x="685" y="781" type="curve"/>
+      <point x="555" y="781" type="line"/>
+      <point x="542" y="781"/>
+      <point x="541" y="780"/>
+      <point x="541" y="767" type="curve"/>
+      <point x="546" y="680" type="line"/>
+      <point x="546" y="173" type="line"/>
+      <point x="546" y="160"/>
+      <point x="547" y="159"/>
+    </contour>
+    <contour>
+      <point x="739" y="159" type="curve"/>
+      <point x="739" y="159" type="line"/>
+      <point x="797" y="159" type="line"/>
+      <point x="844" y="158"/>
+      <point x="871" y="169"/>
+      <point x="871" y="197" type="curve"/>
+      <point x="871" y="762" type="line"/>
+      <point x="876" y="770"/>
+      <point x="881" y="778"/>
+      <point x="886" y="788" type="curve"/>
+      <point x="893" y="799"/>
+      <point x="892" y="800"/>
+      <point x="879" y="800" type="curve"/>
+      <point x="734" y="800" type="line"/>
+      <point x="721" y="800"/>
+      <point x="720" y="799"/>
+      <point x="721" y="786" type="curve"/>
+      <point x="725" y="698" type="line"/>
+      <point x="725" y="173" type="line"/>
+      <point x="725" y="160"/>
+      <point x="726" y="159"/>
+    </contour>
+    <contour>
+      <point x="593" y="460" type="curve"/>
+      <point x="593" y="579" type="line"/>
+      <point x="508" y="579"/>
+      <point x="444" y="581"/>
+      <point x="398" y="587" type="curve"/>
+      <point x="385" y="589"/>
+      <point x="384" y="588"/>
+      <point x="386" y="575" type="curve"/>
+      <point x="399" y="460" type="line"/>
+      <point x="400" y="447"/>
+      <point x="401" y="446"/>
+      <point x="414" y="448" type="curve"/>
+      <point x="455" y="455"/>
+      <point x="511" y="459"/>
+    </contour>
+    <contour>
+      <point x="246" y="-104" type="curve"/>
+      <point x="246" y="-104" type="line"/>
+      <point x="362" y="-99" type="line"/>
+      <point x="409" y="-97"/>
+      <point x="436" y="-85"/>
+      <point x="436" y="-57" type="curve"/>
+      <point x="436" y="153" type="line"/>
+      <point x="445" y="165"/>
+      <point x="452" y="177"/>
+      <point x="458" y="188" type="curve"/>
+      <point x="464" y="200"/>
+      <point x="463" y="201"/>
+      <point x="450" y="201" type="curve"/>
+      <point x="232" y="201" type="line"/>
+      <point x="219" y="201"/>
+      <point x="218" y="200"/>
+      <point x="220" y="187" type="curve"/>
+      <point x="232" y="98" type="line"/>
+      <point x="232" y="-91" type="line"/>
+      <point x="232" y="-104"/>
+      <point x="233" y="-105"/>
+    </contour>
+    <contour>
+      <point x="416" y="30" type="curve"/>
+      <point x="419" y="-76" type="line"/>
+      <point x="495" y="-86"/>
+      <point x="695" y="-93"/>
+      <point x="853" y="-82" type="curve"/>
+      <point x="918" y="-76"/>
+      <point x="920" y="-72"/>
+      <point x="905" y="-39" type="curve"/>
+      <point x="881" y="3"/>
+      <point x="841" y="54"/>
+      <point x="805" y="88" type="curve"/>
+      <point x="796" y="97"/>
+      <point x="794" y="97"/>
+      <point x="783" y="90" type="curve"/>
+      <point x="683" y="26" type="line"/>
+      <point x="734" y="40" type="line"/>
+      <point x="612" y="28"/>
+      <point x="509" y="25"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>hangul</string>
+      <key>de.kutilek.scrawl.data</key>
+      <data>
+      iVBORw0KGgoAAAANSUhEUgAAAeYAAAJYCAAAAACS0BqLAAAKwUlEQVR4Ae3dMcqcZxRD4
+      d/Z/4ZcBVJnA6nSuw0EQgL2Dtzo4ryynmk/0Fyd86mZZj59/fD5+Qn88vNX1PDjg+aJt4
+      BmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0Zpo
+      nCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhM
+      lLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0Z
+      ponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJw
+      hMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS
+      0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaa
+      JwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicIT
+      JS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtG
+      aaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmic
+      ITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyU
+      tGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmm
+      icITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCE
+      yUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLR
+      mmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0Zpon
+      CEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMl
+      LRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0Zp
+      onCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwh
+      MlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0
+      ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJ
+      whMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJS0ZponCEyUtGaaJwhMlLRmmicITJ
+      S0ZponCFyW/Puvy7TDLGs+hPnx2+fLtMOsT18Pw0S9SsCaXzVzehfNpzhfDaP5VTOnd9F
+      8ivPVMJpfNXN6F82nOF8No/lVM6d30XyK89Uwmv9nM7//+SMOoPlHUP7Od/z733cenj3y
+      Y+cZypeDrPllO2e30XyG8uUgml+2c3YbzWcoXw6i+WU7Z7fRfIby5SCaX7ZzdhvNZyhfD
+      qL5ZTtnt9F8hvLlIJpftnN2G81nKF8OovllO2e30XyG8uUgml+2c3YbzWcoXw6i+WU7Z7
+      fRfIby5SCaX7ZzdhvNZyhfDqL5ZTtnt9F8hvLlIJpftnN2G81nKF8OovllO2e30XyG8uU
+      gml+2c3YbzWcoXw6i+WU7Z7fRfIby5SCaX7ZzdhvNZyhfDqL5ZTtnt9F8hvLlIJpftnN2
+      G81nKF8OovllO2e30XyG8uUgml+2c3YbzWcoXw6i+WU7Z7fRfIby5SCaX7ZzdhvNZyhfD
+      qL5ZTtnt9F8hvLlIJpftnN2G81nKF8OovllO2e30XyG8uUgml+2c3YbzWcoXw6i+WU7Z7
+      fRfIby5SCaX7ZzdluJ5n/+OGs8GVSi+cuvk3bOSvtXuTOULweVrPllhA230dxgKb6R5hh
+      hQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mO
+      ETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5
+      hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2
+      mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6
+      R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbi
+      G2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgK
+      b6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZ
+      biG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0Nx
+      gKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDN
+      DZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0
+      NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQw
+      DNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETY
+      E0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhh
+      QwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOE
+      TYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5h
+      hhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2m
+      OETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R
+      5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG
+      2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb
+      6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZb
+      iG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0Nxg
+      Kb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDND
+      ZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG2mOETYE0NxgKb6R5hhhQwDNDZbiG78BSvsTKu
+      QfAMIAAAAASUVORK5CYII=
+      </data>
+      <key>de.kutilek.scrawl.rect</key>
+      <array>
+        <integer>-100</integer>
+        <integer>-263</integer>
+        <integer>972</integer>
+        <integer>1200</integer>
+      </array>
+      <key>de.kutilek.scrawl.size</key>
+      <integer>2</integer>
+      <key>de.kutilek.scrawl.unit</key>
+      <integer>2</integer>
+    </dict>
+  </lib>
+</glyph>

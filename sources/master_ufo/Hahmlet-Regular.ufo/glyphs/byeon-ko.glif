@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="byeon-ko" format="2">
+  <advance width="930"/>
+  <unicode hex="BCC0"/>
+  <note>
+uniBCC0
+</note>
+  <anchor x="796.61" y="-118" name="top"/>
+  <outline>
+    <contour>
+      <point x="118" y="280" type="curve"/>
+      <point x="118" y="280" type="line"/>
+      <point x="152" y="283" type="line"/>
+      <point x="182" y="286"/>
+      <point x="185" y="289"/>
+      <point x="185" y="306" type="curve"/>
+      <point x="185" y="325" type="line"/>
+      <point x="185" y="350" type="line"/>
+      <point x="185" y="691" type="line"/>
+      <point x="189" y="699"/>
+      <point x="193" y="708"/>
+      <point x="196" y="717" type="curve"/>
+      <point x="201" y="728"/>
+      <point x="200" y="729"/>
+      <point x="188" y="729" type="curve"/>
+      <point x="116" y="729" type="line"/>
+      <point x="104" y="729"/>
+      <point x="103" y="728"/>
+      <point x="104" y="716" type="curve"/>
+      <point x="105" y="681" type="line"/>
+      <point x="105" y="292" type="line"/>
+      <point x="105" y="280"/>
+      <point x="106" y="279"/>
+    </contour>
+    <contour>
+      <point x="147" y="304" type="line"/>
+      <point x="481" y="304" type="line"/>
+      <point x="481" y="370" type="line"/>
+      <point x="147" y="370" type="line"/>
+    </contour>
+    <contour>
+      <point x="153" y="512" type="line"/>
+      <point x="476" y="512" type="line"/>
+      <point x="476" y="576" type="line"/>
+      <point x="153" y="576" type="line"/>
+    </contour>
+    <contour>
+      <point x="453" y="283" type="curve"/>
+      <point x="453" y="283" type="line"/>
+      <point x="487" y="286" type="line"/>
+      <point x="517" y="289"/>
+      <point x="520" y="292"/>
+      <point x="520" y="309" type="curve"/>
+      <point x="520" y="691" type="line"/>
+      <point x="524" y="699"/>
+      <point x="527" y="708"/>
+      <point x="531" y="717" type="curve"/>
+      <point x="536" y="728"/>
+      <point x="535" y="729"/>
+      <point x="523" y="729" type="curve"/>
+      <point x="450" y="729" type="line"/>
+      <point x="438" y="729"/>
+      <point x="437" y="728"/>
+      <point x="438" y="716" type="curve"/>
+      <point x="440" y="681" type="line"/>
+      <point x="440" y="351" type="line"/>
+      <point x="440" y="327" type="line"/>
+      <point x="440" y="295" type="line"/>
+      <point x="440" y="283"/>
+      <point x="441" y="282"/>
+    </contour>
+    <contour>
+      <point x="729" y="130" type="curve"/>
+      <point x="729" y="130" type="line"/>
+      <point x="760" y="132" type="line"/>
+      <point x="793" y="134"/>
+      <point x="799" y="139"/>
+      <point x="799" y="157" type="curve"/>
+      <point x="799" y="762" type="line"/>
+      <point x="804" y="769"/>
+      <point x="810" y="777"/>
+      <point x="815" y="784" type="curve"/>
+      <point x="820" y="795"/>
+      <point x="820" y="796"/>
+      <point x="808" y="796" type="curve"/>
+      <point x="729" y="796" type="line"/>
+      <point x="717" y="796"/>
+      <point x="716" y="795"/>
+      <point x="716" y="783" type="curve"/>
+      <point x="717" y="751" type="line"/>
+      <point x="717" y="142" type="line"/>
+      <point x="717" y="130"/>
+      <point x="718" y="129"/>
+    </contour>
+    <contour>
+      <point x="760" y="568" type="curve"/>
+      <point x="760" y="634" type="line"/>
+      <point x="673" y="630"/>
+      <point x="615" y="630"/>
+      <point x="553" y="635" type="curve"/>
+      <point x="541" y="636"/>
+      <point x="541" y="635"/>
+      <point x="543" y="623" type="curve"/>
+      <point x="553" y="573" type="line"/>
+      <point x="555" y="561"/>
+      <point x="556" y="560"/>
+      <point x="568" y="562" type="curve"/>
+      <point x="614" y="568"/>
+      <point x="674" y="571"/>
+    </contour>
+    <contour>
+      <point x="760" y="407" type="curve"/>
+      <point x="760" y="473" type="line"/>
+      <point x="673" y="469"/>
+      <point x="615" y="469"/>
+      <point x="553" y="474" type="curve"/>
+      <point x="541" y="475"/>
+      <point x="541" y="474"/>
+      <point x="543" y="462" type="curve"/>
+      <point x="553" y="412" type="line"/>
+      <point x="555" y="400"/>
+      <point x="556" y="399"/>
+      <point x="568" y="401" type="curve"/>
+      <point x="614" y="407"/>
+      <point x="674" y="410"/>
+    </contour>
+    <contour>
+      <point x="290" y="-103" type="curve"/>
+      <point x="290" y="-103" type="line"/>
+      <point x="320" y="-100" type="line"/>
+      <point x="353" y="-98"/>
+      <point x="359" y="-92"/>
+      <point x="359" y="-74" type="curve"/>
+      <point x="359" y="153" type="line"/>
+      <point x="364" y="162"/>
+      <point x="368" y="172"/>
+      <point x="372" y="181" type="curve"/>
+      <point x="377" y="192"/>
+      <point x="376" y="193"/>
+      <point x="364" y="193" type="curve"/>
+      <point x="283" y="193" type="line"/>
+      <point x="271" y="193"/>
+      <point x="270" y="192"/>
+      <point x="272" y="180" type="curve"/>
+      <point x="277" y="137" type="line"/>
+      <point x="277" y="-91" type="line"/>
+      <point x="277" y="-103"/>
+      <point x="278" y="-104"/>
+    </contour>
+    <contour>
+      <point x="339" y="-14" type="curve"/>
+      <point x="342" y="-78" type="line"/>
+      <point x="414" y="-85"/>
+      <point x="670" y="-86"/>
+      <point x="827" y="-80" type="curve"/>
+      <point x="857" y="-78"/>
+      <point x="859" y="-75"/>
+      <point x="853" y="-59" type="curve"/>
+      <point x="844" y="-37"/>
+      <point x="829" y="-11"/>
+      <point x="811" y="8" type="curve"/>
+      <point x="803" y="16"/>
+      <point x="801" y="16"/>
+      <point x="792" y="9" type="curve"/>
+      <point x="731" y="-36" type="line"/>
+      <point x="782" y="-9" type="line"/>
+      <point x="668" y="-17"/>
+      <point x="419" y="-19"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>hangul</string>
+    </dict>
+  </lib>
+</glyph>

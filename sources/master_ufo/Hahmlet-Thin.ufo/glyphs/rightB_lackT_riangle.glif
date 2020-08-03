@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightBlackTriangle" format="2">
+  <advance width="710"/>
+  <unicode hex="25B6"/>
+  <outline>
+    <contour>
+      <point x="187" y="496" type="curve"/>
+      <point x="184" y="395"/>
+      <point x="184" y="186"/>
+      <point x="187" y="80" type="curve"/>
+      <point x="187" y="63"/>
+      <point x="189" y="62"/>
+      <point x="198" y="66" type="curve"/>
+      <point x="301" y="116"/>
+      <point x="490" y="215"/>
+      <point x="594" y="274" type="curve"/>
+      <point x="608" y="283"/>
+      <point x="608" y="285"/>
+      <point x="600" y="290" type="curve"/>
+      <point x="500" y="349"/>
+      <point x="311" y="449"/>
+      <point x="204" y="500" type="curve"/>
+      <point x="189" y="507"/>
+      <point x="187" y="506"/>
+    </contour>
+  </outline>
+</glyph>

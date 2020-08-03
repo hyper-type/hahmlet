@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="araeaeCompa-ko" format="2">
+  <advance width="930"/>
+  <unicode hex="318E"/>
+  <anchor x="675" y="-118" name="top"/>
+  <outline>
+    <contour>
+      <point x="304" y="263" type="curve"/>
+      <point x="360" y="263"/>
+      <point x="402" y="304"/>
+      <point x="402" y="360" type="curve"/>
+      <point x="402" y="416"/>
+      <point x="360" y="457"/>
+      <point x="304" y="457" type="curve"/>
+      <point x="247" y="457"/>
+      <point x="206" y="416"/>
+      <point x="206" y="360" type="curve"/>
+      <point x="206" y="304"/>
+      <point x="247" y="263"/>
+    </contour>
+    <contour>
+      <point x="485" y="-103" type="curve"/>
+      <point x="485" y="-103" type="line"/>
+      <point x="601" y="-100" type="line"/>
+      <point x="648" y="-99"/>
+      <point x="675" y="-87"/>
+      <point x="675" y="-59" type="curve"/>
+      <point x="675" y="762" type="line"/>
+      <point x="683" y="769"/>
+      <point x="690" y="778"/>
+      <point x="696" y="788" type="curve"/>
+      <point x="703" y="799"/>
+      <point x="702" y="800"/>
+      <point x="689" y="800" type="curve"/>
+      <point x="480" y="800" type="line"/>
+      <point x="467" y="800"/>
+      <point x="466" y="799"/>
+      <point x="467" y="786" type="curve"/>
+      <point x="471" y="691" type="line"/>
+      <point x="471" y="-89" type="line"/>
+      <point x="471" y="-102"/>
+      <point x="472" y="-103"/>
+    </contour>
+  </outline>
+</glyph>

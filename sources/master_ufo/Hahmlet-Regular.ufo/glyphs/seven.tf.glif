@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.tf" format="2">
+  <advance width="670"/>
+  <outline>
+    <contour>
+      <point x="307" y="5" type="curve"/>
+      <point x="364" y="171" type="line"/>
+      <point x="618" y="693" type="line"/>
+      <point x="621" y="699"/>
+      <point x="622" y="704"/>
+      <point x="620" y="711" type="curve"/>
+      <point x="619" y="717" type="line"/>
+      <point x="618" y="724"/>
+      <point x="615" y="727"/>
+      <point x="608" y="727" type="curve"/>
+      <point x="187" y="727" type="line"/>
+      <point x="127" y="735" type="line"/>
+      <point x="114" y="737"/>
+      <point x="113" y="736"/>
+      <point x="111" y="723" type="curve"/>
+      <point x="82" y="539" type="line"/>
+      <point x="80" y="532"/>
+      <point x="82" y="529"/>
+      <point x="89" y="528" type="curve"/>
+      <point x="101" y="528" type="line"/>
+      <point x="108" y="527"/>
+      <point x="112" y="529"/>
+      <point x="115" y="535" type="curve"/>
+      <point x="153" y="622" type="line"/>
+      <point x="160" y="638"/>
+      <point x="169" y="644"/>
+      <point x="185" y="644" type="curve"/>
+      <point x="569" y="650" type="line"/>
+      <point x="565" y="698" type="line"/>
+      <point x="195" y="42" type="line"/>
+      <point x="178" y="14"/>
+      <point x="180" y="10"/>
+      <point x="198" y="4" type="curve"/>
+      <point x="225" y="-3"/>
+      <point x="261" y="-5"/>
+      <point x="294" y="-4" type="curve"/>
+      <point x="301" y="-4"/>
+      <point x="305" y="-2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=670</string>
+    </dict>
+  </lib>
+</glyph>

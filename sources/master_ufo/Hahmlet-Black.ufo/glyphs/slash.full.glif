@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slash.full" format="2">
+  <advance width="930"/>
+  <unicode hex="FF0F"/>
+  <outline>
+    <contour>
+      <point x="746" y="779" type="curve"/>
+      <point x="681" y="689" type="line"/>
+      <point x="109" y="46" type="line"/>
+      <point x="66" y="-3"/>
+      <point x="66" y="-8"/>
+      <point x="98" y="-27" type="curve"/>
+      <point x="122" y="-41"/>
+      <point x="146" y="-52"/>
+      <point x="169" y="-63" type="curve"/>
+      <point x="174" y="-65"/>
+      <point x="180" y="-64"/>
+      <point x="184" y="-59" type="curve"/>
+      <point x="250" y="31" type="line"/>
+      <point x="821" y="673" type="line"/>
+      <point x="864" y="722"/>
+      <point x="864" y="727"/>
+      <point x="832" y="746" type="curve"/>
+      <point x="808" y="760"/>
+      <point x="784" y="772"/>
+      <point x="761" y="783" type="curve"/>
+      <point x="756" y="785"/>
+      <point x="750" y="784"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=930</string>
+    </dict>
+  </lib>
+</glyph>

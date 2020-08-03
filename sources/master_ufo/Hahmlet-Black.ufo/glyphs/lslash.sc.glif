@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash.sc" format="2">
+  <advance width="556"/>
+  <anchor x="292" y="0" name="bottom"/>
+  <anchor x="292" y="278" name="center"/>
+  <anchor x="204" y="556" name="top"/>
+  <anchor x="467" y="295" name="topright"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="_slash.L.sc" xOffset="-73" yOffset="-99"/>
+  </outline>
+</glyph>

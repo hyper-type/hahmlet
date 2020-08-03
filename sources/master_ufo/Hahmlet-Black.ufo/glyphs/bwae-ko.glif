@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bwae-ko" format="2">
+  <advance width="930"/>
+  <unicode hex="BD2C"/>
+  <note>
+uniBD2C
+</note>
+  <anchor x="860" y="-118" name="top"/>
+  <outline>
+    <contour>
+      <point x="56" y="277" type="curve"/>
+      <point x="56" y="277" type="line"/>
+      <point x="126" y="281" type="line"/>
+      <point x="191" y="286"/>
+      <point x="195" y="290"/>
+      <point x="195" y="327" type="curve"/>
+      <point x="195" y="346" type="line"/>
+      <point x="210" y="386" type="line"/>
+      <point x="210" y="669" type="line"/>
+      <point x="216" y="676"/>
+      <point x="220" y="683"/>
+      <point x="224" y="691" type="curve"/>
+      <point x="230" y="702"/>
+      <point x="230" y="703"/>
+      <point x="217" y="703" type="curve"/>
+      <point x="51" y="703" type="line"/>
+      <point x="38" y="703"/>
+      <point x="37" y="702"/>
+      <point x="38" y="689" type="curve"/>
+      <point x="42" y="629" type="line"/>
+      <point x="42" y="290" type="line"/>
+      <point x="42" y="277"/>
+      <point x="43" y="276"/>
+    </contour>
+    <contour>
+      <point x="129" y="306" type="line"/>
+      <point x="383" y="306" type="line"/>
+      <point x="383" y="410" type="line"/>
+      <point x="129" y="410" type="line"/>
+    </contour>
+    <contour>
+      <point x="129" y="496" type="line"/>
+      <point x="383" y="496" type="line"/>
+      <point x="383" y="591" type="line"/>
+      <point x="129" y="591" type="line"/>
+    </contour>
+    <contour>
+      <point x="333" y="289" type="curve"/>
+      <point x="333" y="289" type="line"/>
+      <point x="396" y="294" type="line"/>
+      <point x="461" y="299"/>
+      <point x="465" y="303"/>
+      <point x="465" y="340" type="curve"/>
+      <point x="465" y="669" type="line"/>
+      <point x="471" y="676"/>
+      <point x="474" y="683"/>
+      <point x="479" y="691" type="curve"/>
+      <point x="485" y="702"/>
+      <point x="485" y="703"/>
+      <point x="472" y="703" type="curve"/>
+      <point x="316" y="703" type="line"/>
+      <point x="303" y="703"/>
+      <point x="302" y="702"/>
+      <point x="302" y="689" type="curve"/>
+      <point x="304" y="629" type="line"/>
+      <point x="304" y="385" type="line"/>
+      <point x="319" y="349" type="line"/>
+      <point x="319" y="302" type="line"/>
+      <point x="319" y="289"/>
+      <point x="320" y="288"/>
+    </contour>
+    <contour>
+      <point x="596" y="305" type="line"/>
+      <point x="757" y="305" type="line"/>
+      <point x="757" y="454" type="line"/>
+      <point x="596" y="454" type="line"/>
+    </contour>
+    <contour>
+      <point x="68" y="40" type="curve"/>
+      <point x="68" y="40" type="line"/>
+      <point x="183" y="52"/>
+      <point x="404" y="82"/>
+      <point x="564" y="116" type="curve"/>
+      <point x="577" y="119"/>
+      <point x="578" y="120"/>
+      <point x="577" y="133" type="curve"/>
+      <point x="572" y="208" type="line"/>
+      <point x="571" y="221"/>
+      <point x="570" y="222"/>
+      <point x="557" y="220" type="curve"/>
+      <point x="410" y="198"/>
+      <point x="184" y="186"/>
+      <point x="26" y="191" type="curve"/>
+      <point x="13" y="191"/>
+      <point x="12" y="190"/>
+      <point x="15" y="178" type="curve"/>
+      <point x="50" y="52" type="line"/>
+      <point x="53" y="39"/>
+      <point x="55" y="38"/>
+    </contour>
+    <contour>
+      <point x="536" y="-84" type="curve"/>
+      <point x="536" y="-84" type="line"/>
+      <point x="583" y="-84" type="line"/>
+      <point x="630" y="-85"/>
+      <point x="657" y="-74"/>
+      <point x="657" y="-46" type="curve"/>
+      <point x="657" y="740" type="line"/>
+      <point x="658" y="746"/>
+      <point x="661" y="756"/>
+      <point x="663" y="764" type="curve"/>
+      <point x="666" y="777"/>
+      <point x="665" y="778"/>
+      <point x="652" y="778" type="curve"/>
+      <point x="531" y="778" type="line"/>
+      <point x="518" y="778"/>
+      <point x="517" y="777"/>
+      <point x="518" y="764" type="curve"/>
+      <point x="522" y="674" type="line"/>
+      <point x="522" y="-70" type="line"/>
+      <point x="522" y="-83"/>
+      <point x="523" y="-84"/>
+    </contour>
+    <contour>
+      <point x="718" y="-103" type="curve"/>
+      <point x="718" y="-103" type="line"/>
+      <point x="783" y="-102" type="line"/>
+      <point x="830" y="-102"/>
+      <point x="857" y="-91"/>
+      <point x="857" y="-63" type="curve"/>
+      <point x="857" y="762" type="line"/>
+      <point x="863" y="770"/>
+      <point x="869" y="778"/>
+      <point x="874" y="787" type="curve"/>
+      <point x="880" y="799"/>
+      <point x="879" y="800"/>
+      <point x="866" y="800" type="curve"/>
+      <point x="713" y="800" type="line"/>
+      <point x="700" y="800"/>
+      <point x="699" y="799"/>
+      <point x="700" y="786" type="curve"/>
+      <point x="704" y="694" type="line"/>
+      <point x="704" y="-89" type="line"/>
+      <point x="704" y="-102"/>
+      <point x="705" y="-103"/>
+    </contour>
+    <contour>
+      <point x="189" y="114" type="curve"/>
+      <point x="189" y="114" type="line"/>
+      <point x="254" y="114" type="line"/>
+      <point x="301" y="114"/>
+      <point x="328" y="125"/>
+      <point x="328" y="153" type="curve"/>
+      <point x="328" y="295" type="line"/>
+      <point x="329" y="301"/>
+      <point x="332" y="311"/>
+      <point x="335" y="320" type="curve"/>
+      <point x="341" y="332"/>
+      <point x="340" y="333"/>
+      <point x="327" y="333" type="curve"/>
+      <point x="184" y="333" type="line"/>
+      <point x="171" y="333"/>
+      <point x="170" y="332"/>
+      <point x="171" y="319" type="curve"/>
+      <point x="175" y="236" type="line"/>
+      <point x="175" y="128" type="line"/>
+      <point x="175" y="115"/>
+      <point x="176" y="114"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>hangul</string>
+    </dict>
+  </lib>
+</glyph>

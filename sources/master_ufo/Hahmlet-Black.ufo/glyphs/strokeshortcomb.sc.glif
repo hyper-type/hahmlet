@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokeshortcomb.sc" format="2">
+  <anchor x="221" y="275" name="_center"/>
+  <outline>
+    <contour>
+      <point x="38" y="235" type="curve"/>
+      <point x="400" y="235" type="line"/>
+      <point x="406" y="235"/>
+      <point x="411" y="239"/>
+      <point x="412" y="245" type="curve"/>
+      <point x="417" y="271"/>
+      <point x="418" y="296"/>
+      <point x="417" y="321" type="curve"/>
+      <point x="417" y="327"/>
+      <point x="413" y="331"/>
+      <point x="407" y="330" type="curve"/>
+      <point x="347" y="324" type="line"/>
+      <point x="52" y="324" type="line"/>
+      <point x="46" y="324"/>
+      <point x="41" y="320"/>
+      <point x="40" y="314" type="curve"/>
+      <point x="30" y="245" type="line"/>
+      <point x="29" y="239"/>
+      <point x="32" y="235"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=30</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=30</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>447</integer>
+    </dict>
+  </lib>
+</glyph>

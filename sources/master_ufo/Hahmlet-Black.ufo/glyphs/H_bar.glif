@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="960"/>
+  <unicode hex="0126"/>
+  <anchor x="480" y="0" name="bottom"/>
+  <anchor x="480" y="545" name="center"/>
+  <anchor x="480" y="754" name="top"/>
+  <anchor x="23" y="754" name="topleft"/>
+  <outline>
+    <component base="H"/>
+    <component base="barlongcomb.case" xOffset="15" yOffset="270"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

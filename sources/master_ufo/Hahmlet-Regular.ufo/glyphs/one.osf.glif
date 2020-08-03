@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.osf" format="2">
+  <advance width="516"/>
+  <outline>
+    <contour>
+      <point x="465" y="33" type="curve"/>
+      <point x="343" y="45" type="line"/>
+      <point x="324" y="47"/>
+      <point x="322" y="49"/>
+      <point x="322" y="67" type="curve"/>
+      <point x="322" y="573" type="line"/>
+      <point x="322" y="590"/>
+      <point x="315" y="593"/>
+      <point x="297" y="589" type="curve"/>
+      <point x="77" y="541" type="line"/>
+      <point x="70" y="540"/>
+      <point x="67" y="537"/>
+      <point x="67" y="530" type="curve"/>
+      <point x="67" y="511" type="line"/>
+      <point x="67" y="504"/>
+      <point x="69" y="501"/>
+      <point x="76" y="501" type="curve"/>
+      <point x="274" y="508" type="line"/>
+      <point x="230" y="541" type="line"/>
+      <point x="230" y="68" type="line"/>
+      <point x="230" y="49"/>
+      <point x="228" y="47"/>
+      <point x="210" y="45" type="curve"/>
+      <point x="103" y="33" type="line"/>
+      <point x="96" y="32"/>
+      <point x="93" y="30"/>
+      <point x="93" y="23" type="curve"/>
+      <point x="93" y="10" type="line"/>
+      <point x="93" y="3"/>
+      <point x="95" y="0"/>
+      <point x="102" y="0" type="curve"/>
+      <point x="464" y="0" type="line"/>
+      <point x="471" y="0"/>
+      <point x="474" y="2"/>
+      <point x="474" y="9" type="curve"/>
+      <point x="474" y="22" type="line"/>
+      <point x="474" y="29"/>
+      <point x="472" y="32"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upDownArrow" format="2">
+  <advance width="723"/>
+  <unicode hex="2195"/>
+  <outline>
+    <component base="rightArrow" xScale="0" xyScale="-1" yxScale="1" yScale="0" yOffset="551"/>
+    <component base="downArrow" xScale="-1" yScale="-1" xOffset="723" yOffset="901"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=downArrow</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=downArrow</string>
+    </dict>
+  </lib>
+</glyph>

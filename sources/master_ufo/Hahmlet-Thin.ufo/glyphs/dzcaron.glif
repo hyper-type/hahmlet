@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzcaron" format="2">
+  <advance width="1127"/>
+  <unicode hex="01C6"/>
+  <anchor x="308" y="0" name="bottom_1"/>
+  <anchor x="871" y="0" name="bottom_2"/>
+  <anchor x="418" y="592" name="center_1"/>
+  <anchor x="871" y="243" name="center_2"/>
+  <anchor x="308" y="733" name="top_1"/>
+  <anchor x="871" y="632" name="top_2"/>
+  <anchor x="581" y="486" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="zcaron" xOffset="616"/>
+  </outline>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb" format="2">
+  <unicode hex="0302"/>
+  <anchor x="178" y="492" name="_top"/>
+  <outline>
+    <contour>
+      <point x="34" y="567" type="curve"/>
+      <point x="38" y="564"/>
+      <point x="42" y="561"/>
+      <point x="46" y="559" type="curve"/>
+      <point x="52" y="556"/>
+      <point x="57" y="556"/>
+      <point x="62" y="561" type="curve"/>
+      <point x="104" y="594"/>
+      <point x="145" y="634"/>
+      <point x="186" y="676" type="curve"/>
+      <point x="164" y="676" type="line"/>
+      <point x="206" y="634"/>
+      <point x="248" y="596"/>
+      <point x="292" y="562" type="curve"/>
+      <point x="297" y="558"/>
+      <point x="302" y="558"/>
+      <point x="308" y="561" type="curve"/>
+      <point x="313" y="563"/>
+      <point x="318" y="566"/>
+      <point x="322" y="570" type="curve"/>
+      <point x="328" y="574"/>
+      <point x="329" y="578"/>
+      <point x="324" y="583" type="curve"/>
+      <point x="287" y="625"/>
+      <point x="249" y="673"/>
+      <point x="207" y="732" type="curve"/>
+      <point x="203" y="737"/>
+      <point x="199" y="739"/>
+      <point x="192" y="739" type="curve"/>
+      <point x="163" y="739" type="line"/>
+      <point x="156" y="739"/>
+      <point x="152" y="737"/>
+      <point x="148" y="732" type="curve"/>
+      <point x="106" y="673"/>
+      <point x="70" y="623"/>
+      <point x="33" y="581" type="curve"/>
+      <point x="28" y="575"/>
+      <point x="29" y="572"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=30</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=30</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>357</integer>
+    </dict>
+  </lib>
+</glyph>

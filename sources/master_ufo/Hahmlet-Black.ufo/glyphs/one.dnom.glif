@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.dnom" format="2">
+  <advance width="351"/>
+  <outline>
+    <contour>
+      <point x="309" y="37" type="curve"/>
+      <point x="285" y="44" type="line"/>
+      <point x="260" y="51"/>
+      <point x="259" y="52"/>
+      <point x="259" y="82" type="curve"/>
+      <point x="259" y="434" type="line"/>
+      <point x="259" y="454"/>
+      <point x="251" y="457"/>
+      <point x="228" y="448" type="curve"/>
+      <point x="42" y="374" type="line"/>
+      <point x="37" y="371"/>
+      <point x="34" y="366"/>
+      <point x="34" y="360" type="curve"/>
+      <point x="38" y="339" type="line"/>
+      <point x="38" y="333"/>
+      <point x="43" y="329"/>
+      <point x="49" y="329" type="curve"/>
+      <point x="178" y="331" type="line"/>
+      <point x="103" y="365" type="line"/>
+      <point x="103" y="78" type="line"/>
+      <point x="103" y="52"/>
+      <point x="102" y="51"/>
+      <point x="73" y="42" type="curve"/>
+      <point x="58" y="37" type="line"/>
+      <point x="52" y="35"/>
+      <point x="48" y="30"/>
+      <point x="48" y="24" type="curve"/>
+      <point x="48" y="10" type="line"/>
+      <point x="48" y="4"/>
+      <point x="52" y="0"/>
+      <point x="58" y="0" type="curve"/>
+      <point x="309" y="0" type="line"/>
+      <point x="315" y="0"/>
+      <point x="319" y="4"/>
+      <point x="319" y="10" type="curve"/>
+      <point x="319" y="24" type="line"/>
+      <point x="319" y="30"/>
+      <point x="315" y="35"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>59</integer>
+        <key>weight</key>
+        <integer>-46</integer>
+        <key>width</key>
+        <integer>59</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

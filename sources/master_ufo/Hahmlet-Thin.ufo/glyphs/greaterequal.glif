@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greaterequal" format="2">
+  <advance width="670"/>
+  <unicode hex="2265"/>
+  <outline>
+    <contour>
+      <point x="68" y="90" type="curve"/>
+      <point x="603" y="350" type="line"/>
+      <point x="607" y="353"/>
+      <point x="608" y="354"/>
+      <point x="608" y="359" type="curve"/>
+      <point x="608" y="370" type="line"/>
+      <point x="608" y="375"/>
+      <point x="607" y="376"/>
+      <point x="603" y="379" type="curve"/>
+      <point x="72" y="636" type="line"/>
+      <point x="68" y="639"/>
+      <point x="67" y="638"/>
+      <point x="66" y="633" type="curve"/>
+      <point x="65" y="624"/>
+      <point x="64" y="616"/>
+      <point x="63" y="607" type="curve"/>
+      <point x="63" y="602"/>
+      <point x="64" y="601"/>
+      <point x="68" y="598" type="curve"/>
+      <point x="580" y="353" type="line"/>
+      <point x="580" y="376" type="line"/>
+      <point x="72" y="130" type="line"/>
+      <point x="68" y="127"/>
+      <point x="67" y="126"/>
+      <point x="66" y="121" type="curve"/>
+      <point x="65" y="111"/>
+      <point x="64" y="102"/>
+      <point x="63" y="93" type="curve"/>
+      <point x="63" y="88"/>
+      <point x="64" y="87"/>
+    </contour>
+    <component base="minus" xOffset="1" yOffset="-253"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=670</string>
+    </dict>
+  </lib>
+</glyph>

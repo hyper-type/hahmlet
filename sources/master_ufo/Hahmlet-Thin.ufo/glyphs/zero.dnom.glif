@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.dnom" format="2">
+  <advance width="443"/>
+  <outline>
+    <contour>
+      <point x="220" y="-4" type="curve" smooth="yes"/>
+      <point x="317" y="-4"/>
+      <point x="377" y="78"/>
+      <point x="377" y="210" type="curve" smooth="yes"/>
+      <point x="377" y="342"/>
+      <point x="317" y="424"/>
+      <point x="220" y="424" type="curve" smooth="yes"/>
+      <point x="126" y="424"/>
+      <point x="66" y="341"/>
+      <point x="66" y="210" type="curve" smooth="yes"/>
+      <point x="66" y="79"/>
+      <point x="126" y="-4"/>
+    </contour>
+    <contour>
+      <point x="219" y="23" type="curve" smooth="yes"/>
+      <point x="148" y="23"/>
+      <point x="106" y="92"/>
+      <point x="106" y="210" type="curve" smooth="yes"/>
+      <point x="106" y="327"/>
+      <point x="148" y="397"/>
+      <point x="219" y="397" type="curve" smooth="yes"/>
+      <point x="293" y="397"/>
+      <point x="337" y="327"/>
+      <point x="337" y="210" type="curve" smooth="yes"/>
+      <point x="337" y="93"/>
+      <point x="293" y="23"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>58</integer>
+        <key>width</key>
+        <integer>58</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

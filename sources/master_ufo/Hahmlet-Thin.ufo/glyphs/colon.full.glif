@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon.full" format="2">
+  <advance width="930"/>
+  <unicode hex="FF1A"/>
+  <outline>
+    <component base="colon"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>colon</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=930</string>
+    </dict>
+  </lib>
+</glyph>

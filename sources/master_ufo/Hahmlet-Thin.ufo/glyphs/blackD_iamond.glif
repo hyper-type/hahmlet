@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blackDiamond" format="2">
+  <advance width="844"/>
+  <unicode hex="25C6"/>
+  <outline>
+    <contour>
+      <point x="427" y="63" type="curve"/>
+      <point x="656" y="292" type="line"/>
+      <point x="659" y="295"/>
+      <point x="659" y="297"/>
+      <point x="656" y="300" type="curve"/>
+      <point x="427" y="531" type="line"/>
+      <point x="424" y="534"/>
+      <point x="422" y="534"/>
+      <point x="419" y="531" type="curve"/>
+      <point x="188" y="300" type="line"/>
+      <point x="185" y="297"/>
+      <point x="185" y="295"/>
+      <point x="188" y="292" type="curve"/>
+      <point x="419" y="63" type="line"/>
+      <point x="422" y="60"/>
+      <point x="424" y="60"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=844</string>
+    </dict>
+  </lib>
+</glyph>

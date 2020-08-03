@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aCompa-ko" format="2">
+  <advance width="930"/>
+  <unicode hex="314F"/>
+  <anchor x="468" y="-118" name="top"/>
+  <outline>
+    <contour>
+      <point x="400" y="-102" type="curve"/>
+      <point x="400" y="-102" type="line"/>
+      <point x="430" y="-100" type="line"/>
+      <point x="463" y="-98"/>
+      <point x="469" y="-93"/>
+      <point x="469" y="-75" type="curve"/>
+      <point x="469" y="762" type="line"/>
+      <point x="474" y="769"/>
+      <point x="481" y="777"/>
+      <point x="485" y="784" type="curve"/>
+      <point x="491" y="795"/>
+      <point x="490" y="796"/>
+      <point x="478" y="796" type="curve"/>
+      <point x="399" y="796" type="line"/>
+      <point x="387" y="796"/>
+      <point x="386" y="795"/>
+      <point x="386" y="783" type="curve"/>
+      <point x="387" y="747" type="line"/>
+      <point x="387" y="-90" type="line"/>
+      <point x="387" y="-102"/>
+      <point x="388" y="-103"/>
+    </contour>
+    <contour>
+      <point x="431" y="369" type="line"/>
+      <point x="630" y="364" type="line"/>
+      <point x="642" y="364"/>
+      <point x="643" y="365"/>
+      <point x="641" y="377" type="curve"/>
+      <point x="637" y="399"/>
+      <point x="628" y="429"/>
+      <point x="620" y="448" type="curve"/>
+      <point x="614" y="459"/>
+      <point x="613" y="459"/>
+      <point x="603" y="453" type="curve"/>
+      <point x="569" y="433" type="line"/>
+      <point x="431" y="433" type="line"/>
+    </contour>
+  </outline>
+</glyph>
