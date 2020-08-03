@@ -5,3 +5,6 @@
 # font editor temporary files
 *(Autosaved).glyphs
 *.vfbak
+
+# by Mark: those annoying UFOs are crashing my git, my dropbox and my Mac!
+*.ufo
