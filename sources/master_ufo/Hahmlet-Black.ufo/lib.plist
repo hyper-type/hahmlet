@@ -355,6 +355,10 @@
         <string>wght</string>
       </dict>
     </array>
+    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
+    <array>
+      <string>/kapyeounssangpieupCompa-ko</string>
+    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Use Line Breaks</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
