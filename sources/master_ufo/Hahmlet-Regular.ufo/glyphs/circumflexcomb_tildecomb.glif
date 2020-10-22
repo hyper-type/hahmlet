@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_tildecomb" format="2">
+  <anchor x="179" y="492" name="_top"/>
+  <anchor x="178.88" y="652.3199999999999" name="top"/>
+  <anchor x="382" y="568" name="top_acute"/>
+  <anchor x="337" y="568" name="top_grave"/>
+  <anchor x="335" y="585" name="top_hook"/>
   <outline>
     <component base="circumflexcomb.flat" xOffset="-17"/>
     <component base="tildecomb.small" xScale="0.96" yScale="0.96" xOffset="8" yOffset="180"/>

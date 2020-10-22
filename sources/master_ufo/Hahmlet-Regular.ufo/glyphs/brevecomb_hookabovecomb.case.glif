@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecomb_hookabovecomb.case" format="2">
+  <anchor x="180" y="742" name="_top"/>
+  <anchor x="180" y="874" name="top"/>
+  <anchor x="199" y="861" name="top_acute"/>
+  <anchor x="161" y="861" name="top_grave"/>
+  <anchor x="180" y="834" name="top_hook"/>
   <outline>
     <component base="brevecomb.case"/>
     <component base="hookabovecomb" xOffset="78" yOffset="342"/>

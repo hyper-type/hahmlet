@@ -4,7 +4,7 @@
   <anchor x="304" y="0" name="bottom"/>
   <anchor x="505" y="0" name="ogonek"/>
   <anchor x="296" y="469" name="ring"/>
-  <anchor x="304" y="515" name="top"/>
+  <anchor x="301" y="660" name="top"/>
   <outline>
     <component base="a.sc"/>
     <component base="circumflexcomb_hookabovecomb" xOffset="126" yOffset="29"/>

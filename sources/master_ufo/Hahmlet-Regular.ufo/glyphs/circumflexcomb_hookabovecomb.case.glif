@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_hookabovecomb.case" format="2">
+  <anchor x="190" y="742" name="_top"/>
+  <anchor x="191" y="890" name="top"/>
+  <anchor x="380" y="864" name="top_acute"/>
+  <anchor x="358" y="864" name="top_grave"/>
+  <anchor x="354" y="812" name="top_hook"/>
   <outline>
     <component base="circumflexcomb.case"/>
     <component base="hookabovecomb" xOffset="252" yOffset="320"/>

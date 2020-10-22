@@ -3,7 +3,7 @@
   <advance width="587"/>
   <anchor x="310" y="0" name="bottom"/>
   <anchor x="505" y="0" name="ogonek"/>
-  <anchor x="310" y="536" name="top"/>
+  <anchor x="310" y="696" name="top"/>
   <anchor x="41" y="536" name="topleft"/>
   <outline>
     <component base="e.sc"/>

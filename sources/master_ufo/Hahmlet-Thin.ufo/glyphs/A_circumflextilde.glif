@@ -5,7 +5,7 @@
   <anchor x="408" y="0" name="bottom"/>
   <anchor x="682" y="0" name="ogonek"/>
   <anchor x="397" y="671" name="ring"/>
-  <anchor x="408" y="733" name="top"/>
+  <anchor x="408" y="861" name="top"/>
   <outline>
     <component base="A"/>
     <component base="circumflexcomb_tildecomb.case" xOffset="233"/>

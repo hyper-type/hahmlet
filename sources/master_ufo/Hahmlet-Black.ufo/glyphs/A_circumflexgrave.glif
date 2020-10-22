@@ -5,7 +5,7 @@
   <anchor x="433" y="0" name="bottom"/>
   <anchor x="717" y="0" name="ogonek"/>
   <anchor x="420" y="651" name="ring"/>
-  <anchor x="433" y="754" name="top"/>
+  <anchor x="432" y="943" name="top"/>
   <outline>
     <component base="A"/>
     <component base="circumflexcomb_gravecomb.case" xOffset="210"/>

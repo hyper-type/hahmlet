@@ -5,7 +5,7 @@
   <anchor x="417" y="0" name="bottom"/>
   <anchor x="700" y="0" name="ogonek"/>
   <anchor x="409" y="667" name="ring"/>
-  <anchor x="417" y="742" name="top"/>
+  <anchor x="417" y="874" name="top"/>
   <outline>
     <component base="A"/>
     <component base="brevecomb_hookabovecomb.case" xOffset="237"/>
