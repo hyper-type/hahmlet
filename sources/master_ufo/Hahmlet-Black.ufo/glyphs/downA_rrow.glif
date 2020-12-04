@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="downArrow" format="2">
-  <advance width="723"/>
-  <unicode hex="2193"/>
-  <outline>
-    <component base="rightArrow" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="-12" yOffset="758"/>
-  </outline>
-</glyph>
