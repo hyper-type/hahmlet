@@ -36,7 +36,7 @@ def autohint(file):
     shutil.move(str(file)[:-4]+"-hinted.ttf", str(file))
 
 
-#Converting from Glyphs to UFO
+# Converting from Glyphs to UFO
 print ("[Hahmlet] Converting to UFO")
 main(("glyphs2ufo", "sources/hahmlet.glyphs", "--write-public-skip-export-glyphs", "--propagate-anchors"))
 
@@ -48,11 +48,9 @@ for ufo in path.glob("*.ufo"): # need to put this command in all the source UFOs
      }]
     ufoLib2.Font.save(source)
 
-
 # Load designspace and prepare for ACTION
 designspace = DesignSpaceDocument.fromfile("sources/hahmlet.designspace")
 designspace.loadSourceFonts(ufoLib2.Font.open)
-
 
 # Create variable font
 print ("[Hahmlet Variable] Creating variable font")
@@ -85,9 +83,14 @@ def make_static(instance_descriptor):
     instance = generator.generate_instance(instance_descriptor)
 
     instance.lib['com.github.googlei18n.ufo2ft.filters'] = [{ # extra safe :)
-         "name": "flattenComponents",
-         "pre": 1,
-     }]
+        "name": "flattenComponents",
+        "pre": 1,
+    }]
+
+    # ufo2ft can't generate the panose values from the customParameters, so we have to insert it ourselves
+    for param in instance_descriptor.lib["com.schriftgestaltung.customParameters"]:
+        if param[0] == "panose":
+            instance.info.openTypeOS2Panose = param[1]
 
     static_ttf = ufo2ft.compileTTF(
         instance, 
@@ -134,7 +137,6 @@ for process in processes:
 del processes, pool
 
 # Cleanup
-
 for ufo in path.glob("*.ufo"):
     shutil.rmtree(ufo)
 os.remove("sources/hahmlet.designspace")
