@@ -62,9 +62,9 @@ varFont = ufo2ft.compileVariableTTF(designspace)
 varFont["name"].setName("함렡", 1, 3, 1, 1042) # for whatever reason ufo2ft doesn't implement localized names, so we add them here
 varFont["name"].setName("함렡", 4, 3, 1, 1042)
 varFont["name"].setName("Hahmlet", 4, 3, 1, 1033)
-varFont["name"].setName("Hahmlet-Roman", 6, 3, 1, 1033)
+# varFont["name"].setName("Hahmlet-Roman", 6, 3, 1, 1033)
 varFont["name"].setName("함민주(한글), 마크프롬베르크(라틴)", 9, 3, 1, 1042)
-varFont["name"].setName("Roman", 17, 3, 1, 1042)
+# varFont["name"].setName("Roman", 17, 3, 1, 1042)
 varFont["name"].setName("HahmletRoman", 25, 3, 1, 1042)
 
 styleSpace = statmake.classes.Stylespace.from_file("sources/STAT.plist")
