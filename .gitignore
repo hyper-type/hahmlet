@@ -1,10 +1,18 @@
-# file manager empty files
+*~
+venv
+build.stamp
+proof
+
+# OS generated files #
+######################
 .DS_Store
-.empty
-.sparkleshare
-# font editor temporary files
-*(Autosaved).glyphs
-*.vfbak
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
 
 # by Mark: those annoying UFOs are crashing my git, my dropbox and my Mac!
 *.ufo
