@@ -7,6 +7,8 @@
 ## Description
 
 Hahmlet is inspired by a poster for the Korean ‘Hamlet’ movie from the 1940’s, created by an unknown letterer. The distinct and sharp, quirky and attention seeking details inspired Minjoo Ham to use it for a rather uncommon revival project and turn it into a robust, contemporary typeface. Once the Hangeul was finished, Mark Frömberg took on the challenge to translate the characteristics to the Latin design. A lively exploration into the possible and impossible began. Hahmlet is great for any kind of typesetting, print or screen but also a perfect eyecatcher for signage and poster designs. We highly recommend to use it for Hangeul and Latin bilingual typography.
+"함렡"은 한글과 라틴 문자를 조화롭게 지원하는 뾰족한 획과 독특한 텍스처를 가진 글꼴 가족이다. 과거 어떤 극장 간판 화가의 손으로 그려진, 1950년대 한국에서 개봉된 영화 "햄릿" 포스터의 타이틀 글자에서 영감을 받았다. 하이퍼타입은 원도를 바탕으로 탄탄한, 현대의 타이포그래피 환경에 적합한 디지털 글꼴로 재해석하였다. 함렡은 9가지 굵기와 “굵기”를 축으로 하는 배리어블 폰트로 구성되어 있으며, 구글 폰트 라이브러리에서 한글 문자 최초로 배리어블 폰트를 지원한다.
+
 
 ## Designers
 
